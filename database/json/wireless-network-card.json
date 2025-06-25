@@ -1,0 +1,3010 @@
+[
+  {
+    "name": "Gigabyte GC-WBAX210",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/196a734a1ce494985588b4b00f41aecc.256p.jpg",
+    "price": 52.69,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black / Silver"
+  },
+  {
+    "name": "TP-Link Archer TBE550E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/42340a545b632c75680bddc29abd58e6.256p.jpg",
+    "price": 92.27,
+    "protocol": "Wi-Fi 7",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus PCE-AX3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/628c0c537992924e97b2fa4e9bef4cdb.256p.jpg",
+    "price": 43.9,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer TX3000E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b8816d8a7c895012f7398d6d2a4171f1.256p.jpg",
+    "price": 44.99,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "TP-Link ARCHER T2U PLUS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7ff171439242e62f10ceb9dcacd893ce.256p.jpg",
+    "price": 26.01,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link ArcherTX20E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/09a52515da298c2cffe04bd000aabba2.256p.jpg",
+    "price": 29.99,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link TL-WN881ND",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/770244864b514b0eb87468e46b85855f.256p.jpg",
+    "price": 14.99,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Netgear WNA3100M-100ENS",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31TjDT6hC4L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel AX210",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/48b9cdc6e56d482ecf65f0e21a14c756.256p.jpg",
+    "price": 24.02,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2 PCIe",
+    "color": "Green"
+  },
+  {
+    "name": "MSI HERALD-BE WIFI 7 MAX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/84b5c7381b2fda537f819fd23177bf79.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 7",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer TX55E",
+    "image": "https://m.media-amazon.com/images/I/311Y9W7zVcL.jpg",
+    "price": 32.99,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer TX50E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/251ae9e1af5ac99f81905daeb0795ccb.256p.jpg",
+    "price": 47.43,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer T3U Plus",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3d79e0b2f3cba0686e5e8f53e3a3a8b4.256p.jpg",
+    "price": 16.98,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-BE92BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f4026aa2084e83db832d166a0544a5a9.256p.jpg",
+    "price": 81.9,
+    "protocol": "Wi-Fi 7",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer T4E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/170f61ce6875685c527d65b1295f1cb6.256p.jpg",
+    "price": 24.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AX1800",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d65f512559678b0077ac291a71b476d8.256p.jpg",
+    "price": 30.99,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link TL-WN725N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0e7e6cfea9ab947277a9f9515d1d5289.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Ziyituod ZYT-AX210S",
+    "image": "https://m.media-amazon.com/images/I/313EqihSeWL.jpg",
+    "price": 26.9,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Red"
+  },
+  {
+    "name": "Asus PCE-AX58BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bea22fae2901d63a6a9efb80ed5d7098.256p.jpg",
+    "price": 48.99,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "EDUP EP-9636GS-BL",
+    "image": "https://m.media-amazon.com/images/I/31jxw5lm72L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus PCE-AXE5400",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4e3195603b681c263b6eb5247e2a9b38.256p.jpg",
+    "price": 34.99,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer TXE72E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b4d2dd67129e8e7a45e7540bd27f6399.256p.jpg",
+    "price": 39.99,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer TX20U plus",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b0006d24df03b194774e358066813b45.256p.jpg",
+    "price": 29.99,
+    "protocol": "Wi-Fi 6",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WDN4800",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e8402a6f44920b194fbc3cbf13da1105.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "EDUP EP-9651",
+    "image": "https://m.media-amazon.com/images/I/417ybU+B1EL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Blue / Black"
+  },
+  {
+    "name": "EDUP EP-9651GS",
+    "image": "https://m.media-amazon.com/images/I/419DFmhEftL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link ARCHER T2E",
+    "image": "https://m.media-amazon.com/images/I/41mr82F8aRL.jpg",
+    "price": 21.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Intel Killer AX1675",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/847a4fa4aa2a765369a312af9723598e.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "StarTech USB150WN1X1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6c0ba0dc75acc405e21bcf18ba02c4c4.256p.jpg",
+    "price": 18.75,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel AX200",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ada72c6f4e2035d6561cf57a8da864da.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "M.2",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer TXE75E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/21fad96a5cdbb0b4a96e3a67393b481f.256p.jpg",
+    "price": 44.99,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "MSI HERALD-BE NCM865 WI-FI 7",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e19f31e04a3d1714159f6d85308c406b.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 7",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Gigabyte GC-WBAX200",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/737447f2bbdbf019bdc9232564eaf2cb.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black / Silver"
+  },
+  {
+    "name": "TP-Link TL-WN781ND",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ad54ffc4a3353fdbe2e584001a68be02.256p.jpg",
+    "price": 12.99,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AC88",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0827ae5c0a2779c2ce3c765a78a5dc7b.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T9UH",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c60382cae831cca8f42ed8f679f90428.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "MSI AX905C",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/94b48b28c568ff4ce4108ae8e1f9164b.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Ziyituod ZYT-AX200",
+    "image": "https://m.media-amazon.com/images/I/31P1AzZfWEL.jpg",
+    "price": 24.9,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Green"
+  },
+  {
+    "name": "Intel AX210 w/vPro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/48b9cdc6e56d482ecf65f0e21a14c756.256p.jpg",
+    "price": 29.9,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2 PCIe",
+    "color": "Green"
+  },
+  {
+    "name": "Netgear Nighthawk AXE3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6ffbb3c8e497058607b1edcbb5ca3696.256p.jpg",
+    "price": 94.43,
+    "protocol": "Wi-Fi 6E",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Belkin AE6000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6d6431304f3c6e7fa44f4e017af66001.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T2UB Nano",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/66d51909cfc4587eddf4081d1db26e53.256p.jpg",
+    "price": 65.4,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Asus PCE-AC56",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5516a559362872e6510cbeab949ededd.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AC68",
+    "image": "https://m.media-amazon.com/images/I/41id9W+++5L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AXE58BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b21c133c716604811a0c64fd352a06fc.256p.jpg",
+    "price": 159.16,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black / Gold"
+  },
+  {
+    "name": "TP-Link Archer T6E AC1300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a1175f03aa1364f265d58329836e436d.256p.jpg",
+    "price": 51,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Intel AX200.NGWG.NV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b6de31d8507c898dcea28c01872fb492.256p.jpg",
+    "price": 84.36,
+    "protocol": "Wi-Fi 6",
+    "interface": "M.2",
+    "color": null
+  },
+  {
+    "name": "Intel 7260HMWDTX1",
+    "image": "https://m.media-amazon.com/images/I/419qkHXZErL.jpg",
+    "price": 151.26,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Gigabyte GC-WB1733D-I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/49b962a53313e319c00791743ee095c3.256p.jpg",
+    "price": 31.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus USB-AX55 Nano",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e8644d9dbff2d41cfbefcc0219e2fd10.256p.jpg",
+    "price": 39,
+    "protocol": "Wi-Fi 6",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer T5E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f3a2cc530e89e2756e22eef346e6c581.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Cudy WE3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4ad51a96b8cf2cb6997c575224b29c30.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T2U Nano",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/49177c109205e9fc15cb9772e9475dd2.256p.jpg",
+    "price": 10.99,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": "Black / Gold"
+  },
+  {
+    "name": "Ubit AX210",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer T3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2052662d48ba623012646b7e8b0e2113.256p.jpg",
+    "price": 16.98,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Gigabyte GC-WB867D-I",
+    "image": "https://m.media-amazon.com/images/I/41i+EzorYkL.jpg",
+    "price": 59.9,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Netgear Nighthawk AC1900 A7000-10000S",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/884612197060a46a34124579e06705a8.256p.jpg",
+    "price": 78.34,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer T9E",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/117af3f7c8e4a82ed679aa80b976e868.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Netgear A6210-100PAS",
+    "image": "https://m.media-amazon.com/images/I/31lJ3S4MmUL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T2UH",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4c3b3c234057699978cc7489ccc1c6b7.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "BrosTrend AC5",
+    "image": "https://m.media-amazon.com/images/I/21Y3hStoa8L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "MSI AX1800",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3804e470886c82919f41110db6b844d9.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Ubit G10H-AX210S",
+    "image": "https://m.media-amazon.com/images/I/41LZNnZrSxL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T4U Plus",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/389e1b9b1e9780bd927e7963838e3b7f.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "StarTech PEX867WAC22",
+    "image": "https://m.media-amazon.com/images/I/41xQZDYCbvL.jpg",
+    "price": 66.62,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AC53 NANO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/95690b6a70097b317bed18363488f729.256p.jpg",
+    "price": 22.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN821N",
+    "image": "https://m.media-amazon.com/images/I/31G2BxZ0icL.jpg",
+    "price": 8.69,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "fenvi FV-HB1200",
+    "image": "https://m.media-amazon.com/images/I/41i+h1QgAlL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black / Blue"
+  },
+  {
+    "name": "TP-Link TL-WN722N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c4d3e2e8faad92c2b33ff1123e08bbf1.256p.jpg",
+    "price": 10.35,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AXE59BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/705992afdc28d0e3c81f981741bcf26e.256p.jpg",
+    "price": 69,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus PCE-AC55BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/58d3958230727290b05d049e46fec139.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N250PCe",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31ifVnmkroL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-N15",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7c8a14d019d8abdb71e4497057f66553.256p.jpg",
+    "price": 22.9,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "fenvi FV-AX3000",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "TP-Link TL-WN823N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/49a4630041a0232ece181b7bfb73780d.256p.jpg",
+    "price": 9.49,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/74c28093cf824befbcddbdc6374cd556.256p.jpg",
+    "price": 14.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AC55BT B1",
+    "image": "https://m.media-amazon.com/images/I/41IrQZF3m0L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AX56",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bf7c3057b6f0c6af69bf33df50e6ecc3.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus PCE-AC51",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/197f9478a19d53d444a85e48e002e2b2.256p.jpg",
+    "price": 43.95,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-582",
+    "image": "https://m.media-amazon.com/images/I/411iOwGaSKL.jpg",
+    "price": 26.05,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Gigabyte GC-WB867D-I REV 4.2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3c30ae6a39fcf8a6eee3512718b4f1ed.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-AC58BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/88ddde2b346979b666f59b8c00a39175.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Blue"
+  },
+  {
+    "name": "fenvi FV-8802",
+    "image": "https://m.media-amazon.com/images/I/318aE2nGj+L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black / Orange"
+  },
+  {
+    "name": "TP-Link Archer T3U Nano",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3032fab7557adc639a268e0c91db2c75.256p.jpg",
+    "price": 17.98,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "fenvi FV-T919",
+    "image": "https://m.media-amazon.com/images/I/51WXXEGfddL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black / Gold"
+  },
+  {
+    "name": "TP-Link Archer TX21UH",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3d86ed97c8b274c3885fd707ea8a035c.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Silver / Black"
+  },
+  {
+    "name": "Netgear WNDA4100-100NAS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/88136a1ed2f17bf56ca7eef7f729412a.med.256p.jpg",
+    "price": 162.16,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-131",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/48f257af8e3c9b2e7ff35f68df3c683b.256p.jpg",
+    "price": 12.81,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-AC1200PCEv2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2738eafae13a42f0f55e3897f99f99db.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Green"
+  },
+  {
+    "name": "TP-Link TL-WN822N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/97f0f9f5426b007881db5ebb2a341bcf.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7811UTC",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31fNXA8TtbL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-140",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/58a0156fabd2c502d8a4b2f9150f1c10.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 62205ANHMWDTX1",
+    "image": "https://m.media-amazon.com/images/I/41M2WcHzXNL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "fenvi FV-AXE3000",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "Encore ENUWI-G2",
+    "image": "https://m.media-amazon.com/images/I/31+4Tu32FxL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-548",
+    "image": "https://m.media-amazon.com/images/I/41t6kzhQbwL.jpg",
+    "price": 165.5,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Intel 8265.NGWMG.S",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51fMYdhZWHL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "M.2",
+    "color": "Green"
+  },
+  {
+    "name": "Intel 9560.NGWG.NVR",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "M.2",
+    "color": "Silver"
+  },
+  {
+    "name": "TP-Link Archer T1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2abbca50ad6b599718bb039e972f936e.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 6235AN.HMWWB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41Yzs5N%2BHAL.jpg",
+    "price": 38.96,
+    "protocol": "Wi-Fi 4",
+    "interface": "Half Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Netgear A6100-10000S",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8761f9611f012992d6fab36af9868aca.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link TL-WN350GD",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41xxROulJbL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T8E",
+    "image": "https://m.media-amazon.com/images/I/51cqINj2SoL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "fenvi Wi-Fi 7 FV-BE8800Pro",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 7",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "NEC NP05LM1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ed07fed56699894c0959af399fdd75db.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": "White"
+  },
+  {
+    "name": "fenvi FV-AXE210NG",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2",
+    "color": null
+  },
+  {
+    "name": "BrosTrend AC3",
+    "image": "https://m.media-amazon.com/images/I/41hc9O--EmL.jpg",
+    "price": 29.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Rosewill RNX-AC1900PCE",
+    "image": "https://m.media-amazon.com/images/I/41QIqx6SedL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN851ND",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bde86bd496c2b0c63706c86e868a2270.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Intel 8265.NGWMG.DTX1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bf22dcce7a74f1ec68c83782e67f2ff2.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "M.2",
+    "color": null
+  },
+  {
+    "name": "fenvi Wi-Fi 7 FV-BE8800",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 7",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "fenvi FV-AXE3000RGB",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Red / Silver"
+  },
+  {
+    "name": "D-Link DWA-552",
+    "image": "https://m.media-amazon.com/images/I/31ACIzG5jJL.jpg",
+    "price": 183.01,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-648UBM",
+    "image": "https://m.media-amazon.com/images/I/411zCSrzIfL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN951N",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41GpoViYorL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Intel 7260HMWDTX1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41--hm-2coL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "StarTech PEX300WN2X2",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41jY60zb8TL.jpg",
+    "price": 45.53,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-N10",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/235eea0857764c21789d9d847d69d906.256p.jpg",
+    "price": 16.13,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T4U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4d7895743ff8ccb1f13f382a54cfb113.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Intel 7260",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aedc015730951e2c64ebffb39d20f029.256p.jpg",
+    "price": 47.15,
+    "protocol": "Wi-Fi 5",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-X1850",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/df4aabe92dcc590b0015209e886de62a.256p.jpg",
+    "price": 48.85,
+    "protocol": "Wi-Fi 6",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "BrosTrend AC1",
+    "image": "https://m.media-amazon.com/images/I/21rjsm9jhwL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link TL-WDN3800",
+    "image": "https://m.media-amazon.com/images/I/41Qnm5CfurL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-AC600NUBv2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1acb59d10d6aaf35b26352c5f2b2d397.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "MSI AC905C",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/da0a5b09a5a46c012f4c9616af42d8b9.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "HP 9260",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/342a9eb06fa28c9828ef2a568266f52e.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Green / Black"
+  },
+  {
+    "name": "Ziyituod ZYT-7265",
+    "image": "https://m.media-amazon.com/images/I/41U0ekXZqYL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Green"
+  },
+  {
+    "name": "D-Link DWA-X3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/232092eabaf4ef619d2bd155d2ca211a.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Wavlink WL-WN675X2",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Red"
+  },
+  {
+    "name": "Netgear A6100-100PAS",
+    "image": "https://m.media-amazon.com/images/I/41ewZN+zKqL.jpg",
+    "price": 38.22,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link Archer T4UH",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7f06ab34a1a2949b647f7a5ba847a966.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Asus PCE-N53",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aa815700c987a6a0236e1028c3ce1904.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Netgear A6200-100NAS",
+    "image": "https://m.media-amazon.com/images/I/31JNAQzrPUL.jpg",
+    "price": 168.15,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Netgear WN311B-100NAS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/de50e0cc64e2e005a1af2b9e3d14d551.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "3M 78-6972-0104-0",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8816ba96db361974c2ffd97abae7b54a.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN7200ND",
+    "image": "https://m.media-amazon.com/images/I/319IHPkl-ML.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AC68",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/48b91e932a59f876865282b28db2b04d.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-181-US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1e320e8968c734a717141e32bca8a16f.256p.jpg",
+    "price": 25.49,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Edimax EW-7811UAC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/228f820c33da0154d3496f9dd58af9ed.256p.jpg",
+    "price": 26.92,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN751ND",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/417LAUAvkYL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Linksys WUSB6300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c258c05435fa7780178b93654e207376.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Belkin F9L1001",
+    "image": "https://m.media-amazon.com/images/I/31B+HDsBYzL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "BrosTrend AC3L Linux Wi-Fi Adapter",
+    "image": "https://m.media-amazon.com/images/I/31RrPiTXyxL.jpg",
+    "price": 36.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus USB-N10",
+    "image": "https://m.media-amazon.com/images/I/417UvHw3CHL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Cisco AIR-PI21AG-A-K9",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/392a24057d30539dc318024e27f31e21.med.256p.jpg",
+    "price": 120.51,
+    "protocol": "Wi-Fi 3",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "HP FH971AA",
+    "image": "https://m.media-amazon.com/images/I/415N5VeyW7L.jpg",
+    "price": 79,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Netgear WNA3100-100ENS",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31NBdpvpiyL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN727N",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31QL1nxdMIL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 7260HMW",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/876e80979f6a42108e5d47f1cbdbe943.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "Half Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Orico ORICO WRD150",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2b7bb6cf09a0638eb3a3ff421f879bbb.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7128Gn",
+    "image": "https://m.media-amazon.com/images/I/41D7+mSSCgL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "StarTech USB150WN1X1W",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/763c47fc590201a379cac7cb5601e1fb.256p.jpg",
+    "price": 31.04,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin F9L1101",
+    "image": "https://m.media-amazon.com/images/I/31By95bIrBL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 7260",
+    "image": "https://m.media-amazon.com/images/I/51bgwwCVc3L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Syba SY-PEX23063",
+    "image": "https://m.media-amazon.com/images/I/419h-peXe2L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Feb Smart FS-N600 Basic Edition",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "AVM FRITZ! WLAN Stick AC 430 MU-MIMO",
+    "image": "https://m.media-amazon.com/images/I/21Gv-etD4oL.jpg",
+    "price": 55.19,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "White / Red"
+  },
+  {
+    "name": "fenvi FV-2030T",
+    "image": "https://m.media-amazon.com/images/I/41hc+UaVHmL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Red"
+  },
+  {
+    "name": "MSI AC905C-V2",
+    "image": "https://m.media-amazon.com/images/I/11mCsSgvNLL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Rosewill RNX-N300X",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41qGdl1DZ3L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-AC1300PCEv2",
+    "image": "https://m.media-amazon.com/images/I/31dswobBfSL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "D-Link DWA-162",
+    "image": "https://m.media-amazon.com/images/I/31K4Y1qqtlL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-121",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f591f26a5ccf3b89a02b3345db227a89.256p.jpg",
+    "price": 9.69,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-171",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41I5JI8-1HL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7612PIN V2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17db051887db0ffe11491bb26850ca23.256p.jpg",
+    "price": 11.88,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": "Green"
+  },
+  {
+    "name": "Edimax EW-7822UTC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5a010552a704dece13fb2f1837889746.256p.jpg",
+    "price": 21.57,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Netgear A6150-100PAS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bf2bbc770e5e6d486041fdbbdd3088f1.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Gigabyte GC-WBAX1200",
+    "image": "https://m.media-amazon.com/images/I/31iVZus-0+L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "SIIG LB-WR0011-S1",
+    "image": "https://m.media-amazon.com/images/I/415AkR2JZhL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Asus PCE-AC66",
+    "image": "https://m.media-amazon.com/images/I/41IJKf6f3LL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Intel 2200BNHMWDTX1G",
+    "image": "https://m.media-amazon.com/images/I/318+Oqh2WTL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N180UB",
+    "image": "https://m.media-amazon.com/images/I/31A1-li+jML.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE3000",
+    "image": "https://m.media-amazon.com/images/I/41z+fm3QTUL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNWD-N1502UBE",
+    "image": "https://m.media-amazon.com/images/I/21hgy6KSEoL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENUWI-2XN45",
+    "image": "https://m.media-amazon.com/images/I/11cljtdN4TL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N600UBE",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31GDZWd6XaL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-643PI",
+    "image": "https://m.media-amazon.com/images/I/41d0f3+tcUL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-726EC",
+    "image": "https://m.media-amazon.com/images/I/41DIKHWN-9L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AC53",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/159e8a57f2c36d8e07726c3326741965.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN721N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9d6a00fd98559a9bf0b777418019ea64.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys WUSB600N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b507fee6c8117201407b53dbb8f3d2a2.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AC51",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/51f3081863e85348fdd81becdeb3ea64.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AC55",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/64cfb1d095a4689278305a326a634d7c.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-AC1200PCE",
+    "image": "https://m.media-amazon.com/images/I/311bsAl2G9L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Intel 3160.NGWG",
+    "image": "https://m.media-amazon.com/images/I/51tuSL3GqxL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7811DAC",
+    "image": "https://m.media-amazon.com/images/I/41hR9cta+OL.jpg",
+    "price": 29.82,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-AC600PCEv3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4491528bd1be39c9b6e87378b1a4a328.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "BrosTrend AC1L",
+    "image": "https://m.media-amazon.com/images/I/211ThE2ZgRL.jpg",
+    "price": 28.99,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Rosewill RNX-AC1200UBv2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/abb3db91dfa05ff55f09256948f743ef.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "StarTech USB433ACD1X1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/11a6d7b2ee216d76046c275068df3464.256p.jpg",
+    "price": 35.96,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Rosewill RNX-AC2030PCE",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/931cf3feeb59ca74dfbf24bc1084ba8c.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "Rosewill RNX-AC1900PCEv2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/13976e660e47bcd26209be0c642d08af.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "TP-Link ARCHER T4UHP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1949a3d60eedd3f20b346b650eed87bd.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "TP-Link Archer T4U V2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/acc2d8be4dcddac21a8906a7fc9977e7.256p.jpg",
+    "price": 77.56,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Hommie N900",
+    "image": "https://m.media-amazon.com/images/I/51+sIC8rAeL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Intel AX210 w/vPro",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2 PCIe",
+    "color": "Green"
+  },
+  {
+    "name": "Intel AX210",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2 PCIe",
+    "color": "Green"
+  },
+  {
+    "name": "Intel AX210 w/vPro",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2 PCIe",
+    "color": "Green"
+  },
+  {
+    "name": "SIIG LB-WR0111-S1",
+    "image": "https://m.media-amazon.com/images/I/41bYHIDklsL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  },
+  {
+    "name": "Belkin F7D2102",
+    "image": "https://m.media-amazon.com/images/I/41Yw+6x3S-L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin B2N002",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus USB-N13",
+    "image": "https://m.media-amazon.com/images/I/415YOdoxvyL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENEWI-1XN42",
+    "image": "https://m.media-amazon.com/images/I/31OcdcUOMAL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "IOGEAR GWU625",
+    "image": "https://m.media-amazon.com/images/I/41GOo6gW8aL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 633AN.HMWWB",
+    "image": "https://m.media-amazon.com/images/I/51TS6zr5RFL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Half Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Linksys WMP600N",
+    "image": "https://m.media-amazon.com/images/I/419KKMBBh7L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-G300LX",
+    "image": "https://m.media-amazon.com/images/I/41JhrmxWkeL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-MiniN2(RWLD-11002)",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150PCe",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/31DbuFJxPqL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150PCx",
+    "image": "https://m.media-amazon.com/images/I/41Mb6y2O7ML.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150UBE",
+    "image": "https://m.media-amazon.com/images/I/315nJlQbRfL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N180UBE",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/35f3269902d87ecab0bae727d2022d79.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N250UBE",
+    "image": "https://m.media-amazon.com/images/I/31osgzPXDgL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "StarTech USB300WN2X2D",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31YMRzrDhcL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Syba CL-ADA23032",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31XrXFg38-L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Syba CL-ADA24004",
+    "image": "https://m.media-amazon.com/images/I/31E++oQbfYL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Syba SY-ADA23026",
+    "image": "https://m.media-amazon.com/images/I/31h9Sq5EYHL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-648UB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/defc7fc45e294e75f3e47d4d86329e49.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-646UBH",
+    "image": "https://m.media-amazon.com/images/I/31pO4JYs4pL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-703PIL",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41gJemIjgjL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-703PI",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41oGNsTC0-L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill N900UBE",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 62205AN.HMWWB",
+    "image": "https://m.media-amazon.com/images/I/61hjACw9adL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Half Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Asus USB-N53",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/99527590c6286e8615cd377a11ac311b.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus USB-N66",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41XhycP8GuL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE2500",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9f3557c36163eedf7a90a5ab5554aeef.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE1200-NP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f82b9d437177829db7a92dfea74db8b0.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE1200",
+    "image": "https://m.media-amazon.com/images/I/31XW7GQ+byL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNWD-N1501UB",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31yjLMlwXZL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE3000-NP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2834458d90be63235c581b8dcdac14c2.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N250PC2",
+    "image": "https://m.media-amazon.com/images/I/318X2P+1weL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150HG",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/318oUt6qWeL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE2500-NP",
+    "image": "https://m.media-amazon.com/images/I/41gHpsG+OrL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin E9L1500",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin E9L3000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/314u2As2L8L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin E9L6000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31NLMpyy9mL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin E9L7500",
+    "image": "https://m.media-amazon.com/images/I/41lub5yx-9L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Diamond WL700NXS",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/21mK19S9SaL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENUWI-1XN42",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31zahJSGAuL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENUWI-1XN45",
+    "image": "https://m.media-amazon.com/images/I/319AzkuLKHL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENUWI-1XN4M",
+    "image": "https://m.media-amazon.com/images/I/41uNckdn06L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENUWI-2XN42",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "IOGEAR GWU627W6",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/198bdf2ca10c632dcda5657030e27785.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 2200BNHMWDTX1",
+    "image": "https://m.media-amazon.com/images/I/31RRq12u7jL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Patriot PCUSBW1150",
+    "image": "https://m.media-amazon.com/images/I/31fyKED0r2L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-684UB",
+    "image": "https://m.media-amazon.com/images/I/41qoSaxgQRL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-649UB",
+    "image": "https://m.media-amazon.com/images/I/41YnaX7MqzL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Encore ENEWI-1XN45",
+    "image": "https://m.media-amazon.com/images/I/31SakWK3EyL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Encore ENEWI-2XN42",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31mTqRYpmXL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Encore ENEWI-2XN45",
+    "image": "https://m.media-amazon.com/images/I/31nV4aMjmaL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill N600PCE",
+    "image": "https://m.media-amazon.com/images/I/31jN3dnvomL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill N900PCE",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41X1W93FIdL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-623PI",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/417P7kFuxqL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-424UB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41eBxkCq6fL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-125",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31CDJvQVpIL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-130",
+    "image": "https://m.media-amazon.com/images/I/315GQ5fRFeL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-160",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5cbaa82e5d6a812260e996c176074c0c.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-182",
+    "image": "https://m.media-amazon.com/images/I/31OCnvawcAL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-566",
+    "image": "https://m.media-amazon.com/images/I/41IC5ulRiNL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Netgear WNA1000M-100ENS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/da4bf04a658883aa9fc57589f7627ad7.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Netgear WNA1100-100ENS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/86291e15665b3d698421a94c3028d9fa.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Netgear WNDA3100-100NAS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bffb0525b702e23e9009cf59d4c65516.med.256p.jpg",
+    "price": 160.58,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WDN3200",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31iDd9I026L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN723N",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31l6YgHzDYL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 6235ANHMW",
+    "image": "https://m.media-amazon.com/images/I/51TVxLs0AjL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Half Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 105",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51eQWNx1XIL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 135",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51%2BwT3EgfcL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 2200BNHMW",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 7260HMW",
+    "image": "https://m.media-amazon.com/images/I/41XjSgM+JoL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 7260HMW BN",
+    "image": "https://m.media-amazon.com/images/I/51sbaaH9T8L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Linksys AE6000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1fac45509ff948cb79871f13c65ebe80.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Orico ORICO WRA150",
+    "image": "https://m.media-amazon.com/images/I/31NzUJMahmL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Orico ORICO WRB150",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/95fd3f86332d30f08d83f3814d8f50ba.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Orico ORICO WRB150",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/04410726da137077bb53fbc1686d481a.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Orico WRD150BLK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/35ae99c2ab6a69f6998f04f43dc339dd.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Samsung WIS12ABGNX/XAA",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "StarTech PCI300WN2X2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d42dfe04446d82c95fde33ad07b0f8e0.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WN8200ND",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ed579b787047acf12b145d7e1cea911f.256p.jpg",
+    "price": 22.99,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-624UB",
+    "image": "https://m.media-amazon.com/images/I/41-YaLhoJhL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-664UB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41d8TZ%2BNYjL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-805UB",
+    "image": "https://m.media-amazon.com/images/I/410pNP1fJbL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-180",
+    "image": "https://m.media-amazon.com/images/I/41Mqr3ZRRdL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-525",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4271547010b62c87c32fb85a1795ba87.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7811Un",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1c4d63339351b3738088cd61d8426cf1.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7612PIn",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41KrLuEYZ%2BL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7711USN",
+    "image": "https://m.media-amazon.com/images/I/31jrZcrei0L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7722In",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41GTiG6gHFL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7722UTn",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0b35fc669edb20a15cd3558ad560fed4.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7722PnD",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31S0UQps5HL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7722UnD",
+    "image": "https://m.media-amazon.com/images/I/31h194ZPLqL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7822UAC",
+    "image": "https://m.media-amazon.com/images/I/315mlPOi1ML.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HAWNU1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b72909c6cbc78f7dda1374a35f9c9d34.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HAWNU2",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31BOqPufg1L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HD45U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/83ff9a503c204b43ae3369aeeb8a64e3.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HWDN3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/45b89b62b4f96d6920adf79bf4a709bc.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HWUG1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41rzkbw%2B1NL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HWUN4",
+    "image": "https://m.media-amazon.com/images/I/41dNRENeObL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "IOGEAR GWU523",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Patriot PCBOWAU2-N",
+    "image": "https://m.media-amazon.com/images/I/31hiTvBGWnL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-G300EX",
+    "image": "https://m.media-amazon.com/images/I/31p3DaP1WIL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "SIIG CN-WR0811-S1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b8d9fc312dade120be6dc59e243db4a4.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Belkin F9L1002",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31c-f5wFNxL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin F9L1103",
+    "image": "https://m.media-amazon.com/images/I/41wumOdF0fL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin F9L1109-OM",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Buffalo Technology WI-U2-300D",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41SVrXddofL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Asus USB-AC56",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/de16c7216e8633e97eac8c57c933aac6.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Belkin F7D1102",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41U0%2B2pjHOL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Buffalo Technology WI-U2-433DM",
+    "image": "https://m.media-amazon.com/images/I/41x7xFc9rGL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Cisco AM10",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d742cecb9a226c5e8583eb69b7e606fb.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link N69506",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cd479d1bf621d9dde3ace3ebf904d96a.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-548",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31J9ShEqXOL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Encore ENLWI-N3",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCI",
+    "color": null
+  },
+  {
+    "name": "Rosewill AC1200UBE",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31N1tH4hYiL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "SIIG JU-WR0012-S1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31No1aTAERL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "SIIG JU-WR0212-S1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31K0BB1l5UL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-804UB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41E9dXnE2XL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "SIIG JU-WR0112-S1",
+    "image": "https://m.media-amazon.com/images/I/31w5fGzO0ZL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TP-Link TL-WDN4200",
+    "image": "https://m.media-amazon.com/images/I/31MXV0LvTlL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Cisco AE3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4e6686a9e89dfdc688b31d454b440a4f.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 6205",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/52ddaf0e063e255a2cd1974e70428929.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 6235ANHMW",
+    "image": "https://m.media-amazon.com/images/I/51hVmSUWORL.jpg",
+    "price": 31.99,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 7260HMW",
+    "image": "https://m.media-amazon.com/images/I/41+Dohovi1L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5 (5 GHz only)",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Asus USB-N13",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin AE3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f9ad8648998a34b661062fa022e77c81.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Belkin F7D2102TT",
+    "image": "https://m.media-amazon.com/images/I/31A6cmDeZRL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "BenQ WDRT8192",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31nExoCl7XL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Cisco AE1200",
+    "image": "https://m.media-amazon.com/images/I/21vN34hIlwL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Cisco AE2500",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31cpc%2BWC-7L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HD65U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c9a5164b3aa116d6195f48d258b4ff58.med.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Hawking Technology HW7ACU",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41wt-JUWr-L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "IOGEAR GWU735",
+    "image": "https://m.media-amazon.com/images/I/31rJEODg8LL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-AC1200UBE2",
+    "image": "https://m.media-amazon.com/images/I/31-x1s0n+SL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N600UB",
+    "image": "https://m.media-amazon.com/images/I/21vncTbRxzL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "StarTech USB300WN2X2C",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/246accd905399043e613daaf207dc166.256p.jpg",
+    "price": 18.8,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "StarTech USB433WACDB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/773d07f768b384bae5d5f7bd9219fb79.256p.jpg",
+    "price": 43.74,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "StarTech USB867WAC22",
+    "image": "https://m.media-amazon.com/images/I/31dVXYfK0tL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7711MAC",
+    "image": "https://m.media-amazon.com/images/I/41oOkGjJ1NL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Intel 6300",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 7260",
+    "image": "https://m.media-amazon.com/images/I/51+c-OYmUmL.jpg",
+    "price": 34,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "Intel 7260",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "Mini-PCIe",
+    "color": null
+  },
+  {
+    "name": "AUKEY WF-R12",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31lD%2BoqIvnL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Athenatech NE-WN3201D",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/21PhKZ3oTZL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Edimax EW-7822PIC",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41XcJbp5XVL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "D-Link DWA-192",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2ebbc06e35a13b29ed407bcd7c341220.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-806UBH",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1ea78e0581c331e200bf3464bf66e237.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N600PCE_v2.0",
+    "image": "https://m.media-amazon.com/images/I/41dGJho9roL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150NUB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31sPxFJFNvL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N300UB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e1a192e8e74534ccd70d3f7e417bf2f6.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150NUB",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31eSPZlzy2L.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Rosewill RNX-N150NUB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5a619bd2897191c72fbcaf2b1051610a.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "TRENDnet TEW-807ECH",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41NQHNvQUtL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "Linksys AE3000-CA",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31jF1aedznL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Linksys AE2500-CA",
+    "image": "https://m.media-amazon.com/images/I/21jSe9EGpoL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": null
+  },
+  {
+    "name": "Netgear WF2190",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": null
+  },
+  {
+    "name": "Inamax 4332804407",
+    "image": "https://m.media-amazon.com/images/I/31CH9KqScDL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Hawking Technology HW17ACU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c522f483f8e247f0116d9b23e4512c94.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "BrosTrend AC6",
+    "image": "https://m.media-amazon.com/images/I/41Zm2JwuoQL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "Rosewill RNX-AC600HGUBEv2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/28cfbf07032ffe0d09b1660d2d862417.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Asus USB-AC55 B1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/02b3ac0d1cfd092b2180b6adee1b804b.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "TRENDnet TBW-108UB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0fe96af3424f020485c131f1c572bed5.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "TRENDnet TEW-808UBM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d85b2bc55023b0f0d204f325321c6da4.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Rosewill RNX-AC1900UB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/531b96cfab9682cb5d4af01a67c2db25.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "Hawking Technology HW12ACU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/99525d2c94fe1b45be51cfaf8691489f.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Syba SY-PEX23059",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/66bbaacee8efd4e1951d658367623b24.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": "Green / Black"
+  },
+  {
+    "name": "Sabrent USBG802",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31HqCci5QnL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 3",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Linksys WUSB6100M",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ac71a89c2eab3a2c81fe1bea7008ef71.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "InFocus INA-WIFIUSB-4",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "HP 8265",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cea3c8978ff7ac2b63f8ed97b9be8ab4.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 5",
+    "interface": "PCIe x1",
+    "color": "Green / Black"
+  },
+  {
+    "name": "Sabrent USB-802N",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/406560a3dbdd8ba911524f52d2c03b3b.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Belkin Linksys AE1200-NP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c788e3917be31a8f6f87059489d86d24.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 3.2 Gen 1",
+    "color": "Black"
+  },
+  {
+    "name": "fenvi FV8303",
+    "image": "https://m.media-amazon.com/images/I/41h+VmHU5FL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "PCIe x1",
+    "color": null
+  },
+  {
+    "name": "fenvi FV-AX3000R",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Red / Black"
+  },
+  {
+    "name": "Intel AX210",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "protocol": "Wi-Fi 6E",
+    "interface": "M.2 PCIe",
+    "color": "Green"
+  },
+  {
+    "name": "Asus USB-N13 C1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aa00f28b9cab5b6d5156aac40b1979b0.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A",
+    "color": null
+  },
+  {
+    "name": "SIIG JU-WR0112-S2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5e575a1fbe398ce4e40285fec4a96506.256p.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 4",
+    "interface": "USB Type-A 2.0",
+    "color": "Black"
+  },
+  {
+    "name": "Rosewill RNX-AC3000",
+    "image": "https://m.media-amazon.com/images/I/31TA27H2VhL.jpg",
+    "price": null,
+    "protocol": "Wi-Fi 6",
+    "interface": "PCIe x1",
+    "color": "Black"
+  }
+]

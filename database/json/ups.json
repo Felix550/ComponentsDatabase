@@ -1,0 +1,4832 @@
+[
+  {
+    "name": "CyberPower CP1500PFCLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/078953894c00f76b8090ff4ca3179bab.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SURT20KRMXLT",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 16000,
+    "capacity_va": 20000
+  },
+  {
+    "name": "APC Back-UPS 1500",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/33a78d53b1611aabb73b3048fb3dc5c4.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SRT10KRMXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3e1c60eaeecf8d9b333f2b5dfb7b952e.256p.jpg",
+    "price": null,
+    "capacity_w": 10000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "APC SRT10KXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/33b950d5017e8445ba83c0cbb496cf60.256p.jpg",
+    "price": null,
+    "capacity_w": 10000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "CyberPower CP1500AVRLCD",
+    "image": "https://m.media-amazon.com/images/I/31Q2DbszgmL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC Back-UPS Pro 1500S",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/12bac3884cccb9f302b43d72d5f571b4.256p.jpg",
+    "price": 658.33,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR2200LCDSL",
+    "image": "https://m.media-amazon.com/images/I/419vIjCzpFL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2070
+  },
+  {
+    "name": "APC SRT10KRMXLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a79d728ddac8eef11e9fe4449813f407.256p.jpg",
+    "price": null,
+    "capacity_w": 10000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "CyberPower ST425",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aeae11bde355b776ae9b00e1abc0098e.256p.jpg",
+    "price": null,
+    "capacity_w": 260,
+    "capacity_va": 425
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4249ecd58d1bee96be1c7c2f46ad1120.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SRT10KXLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c3b215c34cb999dcc7d7323e8152258a.256p.jpg",
+    "price": null,
+    "capacity_w": 10000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "CyberPower PR3000LCDSL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7142d0bd28c42ee4839e594ebc6cd937.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower CP1500AVRLCD3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1880ffc797c61028860953ad0d409a65.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC Back-UPS Pro 1500",
+    "image": "https://m.media-amazon.com/images/I/31qw0beN1EL.jpg",
+    "price": 459.79,
+    "capacity_w": 865,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower OR2200PFCRT2U",
+    "image": "https://m.media-amazon.com/images/I/31AwRf1-VzL.jpg",
+    "price": null,
+    "capacity_w": 1320,
+    "capacity_va": 2000
+  },
+  {
+    "name": "CyberPower CP1000PFCLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e43140a56296f6d89ee1e522f941baef.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR3000LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3a33c960debb6b22918fb5c6eef8d3b3.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower UT850EG",
+    "image": "https://m.media-amazon.com/images/I/31SqqnL8KmS.jpg",
+    "price": 90.22,
+    "capacity_w": 425,
+    "capacity_va": 850
+  },
+  {
+    "name": "APC Back-UPS Pro 1000S",
+    "image": "https://m.media-amazon.com/images/I/31BF2STbZEL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1500LCD",
+    "image": "https://m.media-amazon.com/images/I/31UAux9-lgL.jpg",
+    "price": null,
+    "capacity_w": 1050,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SUA5000RMI5U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8d0130abb602be90287b83f7b281f3de.256p.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "CyberPower EC850LCD",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41Xz6QHOBML.jpg",
+    "price": null,
+    "capacity_w": 510,
+    "capacity_va": 850
+  },
+  {
+    "name": "CyberPower CST135XLU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/746ede7773383ef5596f35ab84d5daeb.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "PowerWalker Basic VI 2200 STL UK",
+    "image": "https://m.media-amazon.com/images/I/41pcXpGiadL.jpg",
+    "price": null,
+    "capacity_w": 1320,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC Back-UPS Pro 700VA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/133882572a2ee61257384a359f502fb0.256p.jpg",
+    "price": 325.8,
+    "capacity_w": 420,
+    "capacity_va": 700
+  },
+  {
+    "name": "CyberPower CP550SLG",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ed29aa3b751380a0fdee7491fcaa4569.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC SRT5KXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4adb78b26460c0c08843d048fa112cd4.256p.jpg",
+    "price": null,
+    "capacity_w": 4500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC BE600M1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/382cab7e6ab007688435b6841ea2a9c7.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 600
+  },
+  {
+    "name": "APC BE670M1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c2971557a15967f8d4e5f0c7b06c34f7.256p.jpg",
+    "price": null,
+    "capacity_w": 360,
+    "capacity_va": 675
+  },
+  {
+    "name": "CyberPower OR2200LCDRT2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/09ce8edf8c43529b15e612557cf994ca.256p.jpg",
+    "price": null,
+    "capacity_w": 1320,
+    "capacity_va": 2000
+  },
+  {
+    "name": "CyberPower CP1350AVRLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/64f13ac3f1acc7a13d5401b04f20dcb3.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "CyberPower AVRG750U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4a86b31e4035444b746ccdd968195bc0.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Trust Paxxon",
+    "image": "https://m.media-amazon.com/images/I/31cIhCvvnDL.jpg",
+    "price": 109.99,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA for Gaming",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/774bcb534b6c72c2ed4780de5580a46f.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SU10KRT3U",
+    "image": "https://m.media-amazon.com/images/I/41tI+9mpqkL.jpg",
+    "price": null,
+    "capacity_w": 7000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "APC Back-UPS Pro 1500VA for Gaming",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/400d218a781bd3da28da9b30bed48923.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMX1500XLRT2U",
+    "image": "https://m.media-amazon.com/images/I/31IxETDt8vL.jpg",
+    "price": 324,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower OR2200LCDRTXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3fe10ba0b5fa551995b4cca4b2f70acf.256p.jpg",
+    "price": null,
+    "capacity_w": 1650,
+    "capacity_va": 2190
+  },
+  {
+    "name": "APC Back-UPS 1000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/be6a5d64657fe8d918658059884e1b02.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SRT8KXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/03bfe86f8f61cdbc0371b9da3f3fa52c.256p.jpg",
+    "price": null,
+    "capacity_w": 8000,
+    "capacity_va": 8000
+  },
+  {
+    "name": "APC SRT5KRMXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/76c0fb7a57953113c83c9684d4e777fc.256p.jpg",
+    "price": null,
+    "capacity_w": 4500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "CyberPower CP1350PFCLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3113c0dbdcb2e2397383f1ad59845b6e.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "CyberPower PFC Sinewave CP1500PFCRM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/053840798fac976018a8d7e8605cbf6e.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT1500US",
+    "image": "https://m.media-amazon.com/images/I/51AL0KQokrL.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1440
+  },
+  {
+    "name": "Tripp Lite SMART1500LCDT",
+    "image": "https://m.media-amazon.com/images/I/51KKzph42uL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SRT6KXLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/56c12fd18390ef8086f7135ca775b117.256p.jpg",
+    "price": null,
+    "capacity_w": 6000,
+    "capacity_va": 6000
+  },
+  {
+    "name": "APC BE550G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c97ef91a701687c436d41adb128fe47f.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BR1500GI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/acc4926cb18aba188ee11f4f2be62c86.256p.jpg",
+    "price": 459.9,
+    "capacity_w": 865,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX1500RMI2UNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f2756b3b39e45b83c36910341b5f62ea.256p.jpg",
+    "price": 2142.5,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower CP1000AVRLCD",
+    "image": "https://m.media-amazon.com/images/I/411DqYiNnFL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SRT5KRMXLW-HW",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7543e4534a65793aeba9077cc258b450.256p.jpg",
+    "price": null,
+    "capacity_w": 4500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "CyberPower CP1200AVR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/67f6b611934020f55ee182c2d6601c11.256p.jpg",
+    "price": null,
+    "capacity_w": 720,
+    "capacity_va": 1200
+  },
+  {
+    "name": "CyberPower PR2200LCD",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41G4IRZ5nxL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC Easy UPS BV1000I-MS 230V",
+    "image": "https://m.media-amazon.com/images/I/418BqXmoyML.jpg",
+    "price": 151.16,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC Back-UPS 850",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bea42fea8b08095c11129848988cc12d.256p.jpg",
+    "price": 310.85,
+    "capacity_w": 510,
+    "capacity_va": 850
+  },
+  {
+    "name": "APC Back-UPS Pro 1350VA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c90166533273eddda99e3fabdcae9e85.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "CyberPower AVRG900U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f241ed23765d9cb4b1dfa8fc9e0500f1.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 900
+  },
+  {
+    "name": "Tripp Lite ECO750UPS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aa9dde7bae4103082d820519203f04d9.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower PR5000LCDRTXL5U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/00091337c8c0e559c20707bf535993bb.256p.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC SMT2200I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/08cff09ed427352820dae9a077476253.256p.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SURTA3000XL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/07697b7f6a30b1a833461446bd44ebbe.256p.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC BN1100M2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8869b2789bfb664543272d973222f48f.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1100
+  },
+  {
+    "name": "Tripp Lite BC350",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41WL550hsGL.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 350
+  },
+  {
+    "name": "CyberPower EC650LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bdf5a3fa74e49f6324ca3b9273b42944.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "CyberPower CP900EPFCLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/65657f2cd7795b7eab73766047de91f6.256p.jpg",
+    "price": 235.58,
+    "capacity_w": 540,
+    "capacity_va": 900
+  },
+  {
+    "name": "APC SMX3000RMLV2UNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1147ba37f39206a3a0fb99f9efc93e3c.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SRT6KRMXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/71bb6793353bc21414b1a1f8595b5552.256p.jpg",
+    "price": null,
+    "capacity_w": 6000,
+    "capacity_va": 6000
+  },
+  {
+    "name": "CyberPower CP1500EPFCLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/780091bdc42990e1d158f7bf59b75400.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC BE850G2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bc2e682e43cc8438de2853653977fd18.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 850
+  },
+  {
+    "name": "APC BE650G1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1b27d3483a66207635a172f56dced98a.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC SRT8KRMXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/514f8d21ba44066ca898643b6699b1fc.256p.jpg",
+    "price": null,
+    "capacity_w": 8000,
+    "capacity_va": 8000
+  },
+  {
+    "name": "CyberPower CP900AVR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2893a62b843e42be4f2817f0a357a84e.256p.jpg",
+    "price": null,
+    "capacity_w": 560,
+    "capacity_va": 900
+  },
+  {
+    "name": "APC SMX1500RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ce7ffa49ba349731bccc85b99251583c.256p.jpg",
+    "price": 1498.03,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SUA2200RM2U",
+    "image": "https://m.media-amazon.com/images/I/41ExUL6D8gL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite INTERNET550U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4443c9b1cd86a517bf8a738736dc678f.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "CyberPower CP850PFCLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/241ad7a47bf9462223e3c59eae05b5ac.256p.jpg",
+    "price": null,
+    "capacity_w": 510,
+    "capacity_va": 850
+  },
+  {
+    "name": "APC SMT3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1e53d2688d416cc17cf25efab22966d5.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMT1500I",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41OYGphGoNL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX3000RMHV2UNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6c4c2535d87eda2f6be91e075152901b.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower GX1500U",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500LCD",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/3117xGfrMEL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower LE1000DG",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/70ce561475a7e97c0ff48fd192fde8d2.256p.jpg",
+    "price": null,
+    "capacity_w": 530,
+    "capacity_va": 1000
+  },
+  {
+    "name": "HP AF450A",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41WeOgC8-kL.jpg",
+    "price": null,
+    "capacity_w": 950,
+    "capacity_va": 1400
+  },
+  {
+    "name": "APC SMC1500",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3c78920bef99940fb2324051cbe71755.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART2200NET",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bf16493c5a597374e28b2ea960a2984e.256p.jpg",
+    "price": null,
+    "capacity_w": 1700,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC BR1000G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ce58b776c221f28da676290382cc4e69.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SU3000XLCD",
+    "image": "https://m.media-amazon.com/images/I/51CD4HXB0UL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC Back-UPS 1350",
+    "image": "https://m.media-amazon.com/images/I/31PM7G+JiiL.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "APC SMX2000RMLV2UNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2e2efdfa074dd34f3ec542cbff625cca.256p.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 1920
+  },
+  {
+    "name": "APC SUM3000RMXLI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/edab0615cb5bb88ad1ef0825b8f87a02.256p.jpg",
+    "price": 4754.56,
+    "capacity_w": 2850,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower EC750G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8274d17a3d00d6d0a4c548e7db0ee251.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower OR1500LCDRTXL2U",
+    "image": "https://m.media-amazon.com/images/I/311j1sxJvgL.jpg",
+    "price": null,
+    "capacity_w": 1125,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX3000LVNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d405764f358b6db3516f7505d8a2ad7b.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SRT8KRMXLT",
+    "image": "https://m.media-amazon.com/images/I/51TQq5YAvUL.jpg",
+    "price": null,
+    "capacity_w": 8000,
+    "capacity_va": 8000
+  },
+  {
+    "name": "APC SURTA1500RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/66a76fffaed6902f521b90eba13f41dc.256p.jpg",
+    "price": null,
+    "capacity_w": 1050,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART2200RM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4a84223edfc9cd838c302f33db667bb8.256p.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART1500PSGLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/eb2c26503a472d4120ff8ef29dcadd8a.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC BN1080G",
+    "image": "https://m.media-amazon.com/images/I/415ms4Fer+L.jpg",
+    "price": null,
+    "capacity_w": 650,
+    "capacity_va": 1080
+  },
+  {
+    "name": "APC SURTA3000RMXL3U",
+    "image": "https://m.media-amazon.com/images/I/4182MzH89aL.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SM3000RMXL2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b07e4dd449c3a03f1243cdff1eb9b7d4.256p.jpg",
+    "price": null,
+    "capacity_w": 2880,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU2200XLCD",
+    "image": "https://m.media-amazon.com/images/I/514IzjWFGCL.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMT1500LCDT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5cd23a94fb14c39ef8ed143a695385a8.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX2200HV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1403176109f456975d53dd291ddd888c.256p.jpg",
+    "price": 1967.58,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SM2200RMXL2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/254a2c7954663660b82df614b944564d.256p.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "CyberPower BRG1500AVRLCD2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0623176d6b81e0639d33f65ec882e639.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX2200RMLV2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c53361f229637601b0d19c64b4321a75.256p.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC Back-UPS Pro 1350S",
+    "image": "https://m.media-amazon.com/images/I/31sLfhzUV1L.jpg",
+    "price": 806.97,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "APC SMT3000RM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3ed373ccd7c13d3695d0a5f71d899405.256p.jpg",
+    "price": 855,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMX3000RMHV2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6547d1fe97b66611eba794e22edacfcd.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SRT6KRMXLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/76a4f60321f97030916dc4ed18fd17b1.256p.jpg",
+    "price": null,
+    "capacity_w": 6000,
+    "capacity_va": 6000
+  },
+  {
+    "name": "APC SUA5000RMT5U",
+    "image": "https://m.media-amazon.com/images/I/41J1f3aG1HL.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC BK500EI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7857a4480b9b2fbd6a5332485b18a17b.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC SMT2200RM2U",
+    "image": "https://m.media-amazon.com/images/I/41R2eIXTOYL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMX3000HVNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/839c99d9da7467947b4eee961e549713.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SRT5KXLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5be41b2c39e45ead82c729a27417626a.256p.jpg",
+    "price": null,
+    "capacity_w": 4250,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC SMT1500RMI1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6e9768dc7d60c75c52b67cc6e0c1dd44.256p.jpg",
+    "price": 1279.31,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX3000HV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2325b4e01261896c7195d3d73f3a3907.256p.jpg",
+    "price": 2513.91,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMX3000LV",
+    "image": "https://m.media-amazon.com/images/I/41EL1z4goTL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART3000NET",
+    "image": "https://m.media-amazon.com/images/I/41Gq2wSpzSL.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SM3000RM2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c75112150b7f428dbe558140df6a97fd.256p.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC BE750G",
+    "image": "https://m.media-amazon.com/images/I/41aeBbMwYvL.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMC1000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/da27cb2edc169d044cb3089affd7dc54.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMC1000I",
+    "image": "https://m.media-amazon.com/images/I/41nPrp0nc0L.jpg",
+    "price": 547.13,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1500R2X122",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17ad474337287102f9f806891adcd512.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT2200US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d127de9609c216648869b739a06aa9f0.256p.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMT3000R2X145",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/951572fc4823576161ea052d60f83a45.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMT3000RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bdd7691b5c05fbad4b3e47558848b43f.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMX1000I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/079e0e3cabbd73b0ea205e4ed74f488a.256p.jpg",
+    "price": 1034.46,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMX2000LV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ddd16a2a83ff0a62db1ff8cb719a0d79.256p.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 1920
+  },
+  {
+    "name": "APC SMX3000RMLV2U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/310S2y69blL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SURTD5000RMXLP3U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/411hlKJzPJL.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite ECO550UPS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a2c6e92876143c46e207b9a103b9cadc.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite INTERNET350U",
+    "image": "https://m.media-amazon.com/images/I/41azFbQkrdL.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 350
+  },
+  {
+    "name": "Tripp Lite SMART2500XLHG",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3262ed0ee3b9c0661ab48ab4757b4284.256p.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU2200RTXL2UA",
+    "image": "https://m.media-amazon.com/images/I/31ITpZTHStL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU1500RTXLCD2U",
+    "image": "https://m.media-amazon.com/images/I/41LORWP7IkL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMX3000XLRT2UA",
+    "image": "https://m.media-amazon.com/images/I/31IxETDt8vL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART5000TEL3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1db4a5fd129d5385cd1c9d639b814e1b.256p.jpg",
+    "price": null,
+    "capacity_w": 3750,
+    "capacity_va": 5000
+  },
+  {
+    "name": "CyberPower OL1500RTXL2U",
+    "image": "https://m.media-amazon.com/images/I/41OmxC0z1QL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower OR1500PFCRT2U",
+    "image": "https://m.media-amazon.com/images/I/31RHoTbH-CL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower CP1300EPFCLCD",
+    "image": "https://m.media-amazon.com/images/I/417c+oJCttL.jpg",
+    "price": null,
+    "capacity_w": 780,
+    "capacity_va": 1300
+  },
+  {
+    "name": "APC Back-UPS Pro 1375VA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/71d1cb028a77e47bcaf83164c016418a.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1375
+  },
+  {
+    "name": "CyberPower CP1500PFCLCDTAA",
+    "image": "https://m.media-amazon.com/images/I/31nuxpez-NL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Belkin F6H650-SER",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41RJ0VYF91L.jpg",
+    "price": null,
+    "capacity_w": 360,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BK650EI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5c584426f6daee1c1ae88d12d4ab0c9a.256p.jpg",
+    "price": 199.9,
+    "capacity_w": 400,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BR500CI-AS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/89c9f7e41fec878055b4ead6095ec80b.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC SUA500PDRI-S",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5c02ab59ce7cebfe4395129c16210cb1.256p.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite SMART5000RT3U",
+    "image": "https://m.media-amazon.com/images/I/41qRmerVOkL.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "CyberPower CP1000PFCLCDTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/969e81d14b8da1925a3f4609b8a1a0cf.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower OL3000RTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31yknZwlpqL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMC15002URM",
+    "image": "https://m.media-amazon.com/images/I/310RpO8W+pL.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC BK325I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0e5bab43b88651862aa52fcf964c3528.256p.jpg",
+    "price": 108.49,
+    "capacity_w": 210,
+    "capacity_va": 325
+  },
+  {
+    "name": "APC BR900GI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9ed88c6d159141bbf59f2fa35a557fcc.256p.jpg",
+    "price": null,
+    "capacity_w": 540,
+    "capacity_va": 900
+  },
+  {
+    "name": "APC BX1300G",
+    "image": "https://m.media-amazon.com/images/I/31zSjq75WTL.jpg",
+    "price": null,
+    "capacity_w": 780,
+    "capacity_va": 1300
+  },
+  {
+    "name": "APC SMT1500",
+    "image": "https://m.media-amazon.com/images/I/41v-8VVyqKL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT1500RMUS",
+    "image": "https://m.media-amazon.com/images/I/31aiNmDUcJL.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT750US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/dd95ee48b3c0587c60db5fb5f9a900ac.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMX2000LVNC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0df717a9fe7586bc7e546ccc4d934c81.256p.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 1920
+  },
+  {
+    "name": "APC SUM3000RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/90f8020722f425704be7e141a213910b.256p.jpg",
+    "price": null,
+    "capacity_w": 2850,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SY12KEXBX120",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a9bd066787c5e7a0ff0b6d34a1d00332.256p.jpg",
+    "price": null,
+    "capacity_w": 8400,
+    "capacity_va": 12000
+  },
+  {
+    "name": "Tripp Lite SMART1000LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/11dc34d7f14d981187ad249bdecd3773.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMART1500SLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0ae242ef8cf9ede47aa7186352354a9f.256p.jpg",
+    "price": null,
+    "capacity_w": 950,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART2200RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/83090d649a8a67d12c64b8a01518d55f.256p.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU3000RTXL3U",
+    "image": "https://m.media-amazon.com/images/I/41MJvDSvt6L.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU1500RTXL2UA",
+    "image": "https://m.media-amazon.com/images/I/31Hq9TWnvqL.jpg",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART3000RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/83090d649a8a67d12c64b8a01518d55f.256p.jpg",
+    "price": null,
+    "capacity_w": 2880,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA1000XL",
+    "image": "https://m.media-amazon.com/images/I/314WgRG47LL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower OR1500LCDRM1U",
+    "image": "https://m.media-amazon.com/images/I/317fDXEYiLL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower OR500LCDRM1U",
+    "image": "https://m.media-amazon.com/images/I/31ehsdLgzoL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "CyberPower PR2200LCDRT2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/76f10ce70d8afdf367112e270c78ca73.256p.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2170
+  },
+  {
+    "name": "CyberPower PR2200LCDRT2UTAA",
+    "image": "https://m.media-amazon.com/images/I/41ZwufkC0lL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2170
+  },
+  {
+    "name": "IBM 53959KX",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41TenVK3FzL.jpg",
+    "price": null,
+    "capacity_w": 10000,
+    "capacity_va": 11000
+  },
+  {
+    "name": "CyberPower GX1325U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17de712cdc1fbaf38c6b1181caf3e53c.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1325
+  },
+  {
+    "name": "CyberPower LX1500GU-FC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bdacef35d41a3434294ce408444195c2.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower CST135UC",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "Tripp Lite OMNI1500LCDT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/034434b20378727b962c32ee1fa0c425.256p.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC BN650M1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0af230d7bc118fc7259797310a7cfa59.256p.jpg",
+    "price": null,
+    "capacity_w": 360,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC SURTD5000XLI",
+    "image": "https://m.media-amazon.com/images/I/41X7ODbaidL.jpg",
+    "price": null,
+    "capacity_w": 3500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC BK350EI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7a611bccb727c31c9485a4969483460a.256p.jpg",
+    "price": 170.9,
+    "capacity_w": 210,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC SURTD5000RMXLI",
+    "image": "https://m.media-amazon.com/images/I/31Q4F9h1VPL.jpg",
+    "price": null,
+    "capacity_w": 3500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite SU1500XLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b38b989f0dd741422bdbad6e6bc09b95.256p.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC BK350",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a913a1ad7b2304d3f30523ef45fab129.256p.jpg",
+    "price": null,
+    "capacity_w": 210,
+    "capacity_va": 350
+  },
+  {
+    "name": "CyberPower CP1500AVRT",
+    "image": "https://m.media-amazon.com/images/I/41MZ1SsWWHL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMC1500I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3e5ab3aa4db61d5736875c533b686ad0.256p.jpg",
+    "price": 348,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SURTD2200XLIM",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 1540,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite INTERNET750U",
+    "image": "https://m.media-amazon.com/images/I/416SGCAHCAL.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite OMNIVS1500XLTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9d1de5524892219d09f82e3bb9f95a46.256p.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMX1200XLHG",
+    "image": "https://m.media-amazon.com/images/I/313VZyHklCL.jpg",
+    "price": null,
+    "capacity_w": 750,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower CP850AVRLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/285eea5530e898bab19c1a6b74918cf0.256p.jpg",
+    "price": null,
+    "capacity_w": 510,
+    "capacity_va": 850
+  },
+  {
+    "name": "CyberPower PR1000LCD",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/518OfjKbwXL.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/014413e6fdb2ee4d84f85d5c4bd29d0a.256p.jpg",
+    "price": 739,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC BE350G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a11dfb4218967e67ce40ebc34c14f803.256p.jpg",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC APC3IA",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/1175JTPJ1XL.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC BE350R",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BGE90M",
+    "image": "https://m.media-amazon.com/images/I/31MOVJTj3aL.jpg",
+    "price": null,
+    "capacity_w": 75,
+    "capacity_va": 125
+  },
+  {
+    "name": "APC BN700MC",
+    "image": "https://m.media-amazon.com/images/I/41iEWCQifKL.jpg",
+    "price": null,
+    "capacity_w": 420,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BR1200GI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/73ee883c11e1fae72b2ebeb3b32c3f4b.256p.jpg",
+    "price": null,
+    "capacity_w": 720,
+    "capacity_va": 1200
+  },
+  {
+    "name": "APC BN600G",
+    "image": "https://m.media-amazon.com/images/I/41kcxfglXyL.jpg",
+    "price": null,
+    "capacity_w": 360,
+    "capacity_va": 600
+  },
+  {
+    "name": "APC BX1000G",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC BX1500G",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31ZvSvGdubL.jpg",
+    "price": null,
+    "capacity_w": 865,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC DLT1500I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c7e22c7fc46cf00bf90ec9830f450dfe.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC DLT1500RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c7bea07fe634b20b7042c0f6fc1b6ac8.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SC620I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c81e93c7a9b15d3e27288fe21b9002fe.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 620
+  },
+  {
+    "name": "APC SMT1500RM2U",
+    "image": "https://m.media-amazon.com/images/I/31JSnGR5BTL.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SMT1500X448",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/847dd743850045d1151f8fef56469bae.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT2200R2X180",
+    "image": "https://m.media-amazon.com/images/I/31kLbjvYZeL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMT2200RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7bbb93cae6d59a07b0d863f99af871dd.256p.jpg",
+    "price": 636,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMT2200RMUS",
+    "image": "https://m.media-amazon.com/images/I/31cP-UaHleL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMT750I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/133fe6967139460add101ab00f57aa7c.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMX2200RMHV2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/75d75144476841fbb7bd1445d04bbe98.256p.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SRT5KRMXLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d169e749414e409d6e5dc0b0ee79eb17.256p.jpg",
+    "price": null,
+    "capacity_w": 4250,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC SU700X93",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4667c79dfa28c2b69be0b1fba7e53b38.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC SUA3000XL-NETPKG",
+    "image": "https://m.media-amazon.com/images/I/41TNF4KgONL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUM1500RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9682229e2ffa82989c741c82020df819.256p.jpg",
+    "price": null,
+    "capacity_w": 1425,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUOL2000XLI",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/3114dSbjHtL.jpg",
+    "price": 1508,
+    "capacity_w": 1400,
+    "capacity_va": 2000
+  },
+  {
+    "name": "APC SURTD3KRMXL3U-TF5",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/df72817dacedeb089d828354f1ef6397.256p.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SURTD6000RMXLP3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8ad602d1eee258e12ad26c2691d1537a.256p.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite ECO350UPS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f79d560babe3015e159e41d7935d40a3.256p.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 350
+  },
+  {
+    "name": "Tripp Lite ECO850LCD",
+    "image": "https://m.media-amazon.com/images/I/4185pfWj6LL.jpg",
+    "price": null,
+    "capacity_w": 425,
+    "capacity_va": 850
+  },
+  {
+    "name": "Tripp Lite INTERNET550SER",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/41kp0XtS1uL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite INTERNET600U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/484627f9632fc39999b5e7bbe00fe9a4.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 600
+  },
+  {
+    "name": "Tripp Lite OMNIVS1500",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41bc5WOjzlL.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1050SLT",
+    "image": "https://m.media-amazon.com/images/I/517tzLmxiJL.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite SMART1500LCDXL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d7f2b50e2d9126e0f666ca446398e735.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500RM2U",
+    "image": "https://m.media-amazon.com/images/I/31T13ysuk0L.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500RMXL2UA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aa7ac60ce7331fd36286998ee80f7493.256p.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500RMXLN",
+    "image": "https://m.media-amazon.com/images/I/21fG2NRiHJL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART2200",
+    "image": "https://m.media-amazon.com/images/I/31oSKkv9a0L.jpg",
+    "price": null,
+    "capacity_w": 1700,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART2200VSXL",
+    "image": "https://m.media-amazon.com/images/I/41wPzG17Z8L.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU2200XL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/90571df0bcc1917b0c79f7fc02dd6bbc.256p.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU3000RTXLCD2U",
+    "image": "https://m.media-amazon.com/images/I/41Z95jZVi7L.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SUINT2000XL",
+    "image": "https://m.media-amazon.com/images/I/41dZg30sVjL.jpg",
+    "price": null,
+    "capacity_w": 1400,
+    "capacity_va": 2000
+  },
+  {
+    "name": "Tripp Lite SU1500RTXL2U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31PNP2X9D0L.jpg",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART750",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/519Is2Ym76L.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMX3000RT2UTAA",
+    "image": "https://m.media-amazon.com/images/I/11AEVDG0CJL.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART700SER",
+    "image": "https://m.media-amazon.com/images/I/41ds26pyBrL.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite SMART3000RMXLN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0a7d849ef3fd1526c395ba18691e2176.256p.jpg",
+    "price": null,
+    "capacity_w": 2880,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART5000XFMRXL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3fbe4194bb5469a4f03383c9cc910685.256p.jpg",
+    "price": null,
+    "capacity_w": 3750,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite INTERNET900U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a703d30adf37d41daf885083111da168.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 900
+  },
+  {
+    "name": "APC BK500",
+    "image": "https://m.media-amazon.com/images/I/41Zol2MLjEL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "CyberPower BRG1350AVRLCD",
+    "image": "https://m.media-amazon.com/images/I/31pzbdHX78L.jpg",
+    "price": null,
+    "capacity_w": 810,
+    "capacity_va": 1350
+  },
+  {
+    "name": "CyberPower BRG1500AVRLCD",
+    "image": "https://m.media-amazon.com/images/I/31Dc6p3Z01L.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower CP800AVR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6d3bbfaf53db86f863512e09c5190288.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 800
+  },
+  {
+    "name": "CyberPower CP825AVRLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/762c16f00152f67130f99c0ca889a6b4.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 825
+  },
+  {
+    "name": "CyberPower CS16U48V-8",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/78f89693c4873802549eff383ac9a3f8.256p.jpg",
+    "price": null,
+    "capacity_w": 16,
+    "capacity_va": null
+  },
+  {
+    "name": "CyberPower OL10000RT3U",
+    "image": "https://m.media-amazon.com/images/I/51Tms7p0dmL.jpg",
+    "price": null,
+    "capacity_w": 9000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "CyberPower OR2200PFCRT2Ua",
+    "image": "https://m.media-amazon.com/images/I/41EyMcXnnXL.jpg",
+    "price": null,
+    "capacity_w": 1300,
+    "capacity_va": 2200
+  },
+  {
+    "name": "CyberPower PP800SW",
+    "image": "https://m.media-amazon.com/images/I/41ZpiVIw+zL.jpg",
+    "price": null,
+    "capacity_w": 550,
+    "capacity_va": 800
+  },
+  {
+    "name": "CyberPower PR1000LCDRM1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5d2a3a188a26fe886e5cc18d71139367.256p.jpg",
+    "price": null,
+    "capacity_w": 750,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1500LCDRTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31ShetpyHdL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR3000LCDRTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31rDZwmPJLL.jpg",
+    "price": null,
+    "capacity_w": 3000,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower PR3000LCDRTXL2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/769c49a27197b63ec1ea4d2713a357dd.256p.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower PR5000LCDRTXL5UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6768ea9cb6ace89c3c98522648e9b3d1.256p.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "CyberPower CS50U48V",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a2199df587d0d55a9ab6498233d8207d.256p.jpg",
+    "price": null,
+    "capacity_w": 50,
+    "capacity_va": null
+  },
+  {
+    "name": "HP AF461A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cdf43dd9c8b03013a3bab1b89db0a03b.256p.jpg",
+    "price": null,
+    "capacity_w": 4500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "HP AF463A",
+    "image": "https://m.media-amazon.com/images/I/41cv0mr5gLL.jpg",
+    "price": null,
+    "capacity_w": 6300,
+    "capacity_va": 6300
+  },
+  {
+    "name": "Lenovo 33L3478",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aba47cffcd2dcbbe8186f39d4ae0a32a.256p.jpg",
+    "price": null,
+    "capacity_w": null,
+    "capacity_va": 675
+  },
+  {
+    "name": "Lenovo 55943AX",
+    "image": "https://m.media-amazon.com/images/I/215AsmjKUfL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Eaton 66942",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41mSxoXazEL.jpg",
+    "price": null,
+    "capacity_w": 250,
+    "capacity_va": 500
+  },
+  {
+    "name": "CyberPower BU800E-UK",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 400,
+    "capacity_va": 800
+  },
+  {
+    "name": "CyberPower CST1500S",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower XC625",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 375,
+    "capacity_va": 625
+  },
+  {
+    "name": "CyberPower CST150UC-FC",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1300LCDT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b9ee9bc90dac687de0203acdd2f43483.256p.jpg",
+    "price": null,
+    "capacity_w": 720,
+    "capacity_va": 1300
+  },
+  {
+    "name": "CyberPower BRG1000AVRLCD",
+    "image": "https://m.media-amazon.com/images/I/41jx2Mb-fdL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT3000I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1873016520e56e655fb4952e6e9fb262.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMX1000",
+    "image": "https://m.media-amazon.com/images/I/41s7gJkrIkL.jpg",
+    "price": 1284.83,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite AVR900U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8788acc8ff219241ae1a469c8afcd83a.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 900
+  },
+  {
+    "name": "Tripp Lite SMART1500",
+    "image": "https://m.media-amazon.com/images/I/41pxwSVCBkL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower CP685AVR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f9da3cd8d037c5f58d0aadf9531f81b0.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 685
+  },
+  {
+    "name": "APC BE700G-UK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/74ea53938616dc5c0b439e38badc13c0.256p.jpg",
+    "price": null,
+    "capacity_w": 405,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC SC450RMI1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6673b93dec57e6231dbec167f859e5eb.256p.jpg",
+    "price": 400,
+    "capacity_w": 280,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC SMX1500RM2UNC",
+    "image": "https://m.media-amazon.com/images/I/41ANcz6NdIL.jpg",
+    "price": 2189.15,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX750I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/34973d85f2654be4abe391154eea8914.256p.jpg",
+    "price": 772.65,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite AVR700U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/18f25274c8169fb4d70bf4cfa96c114a.256p.jpg",
+    "price": null,
+    "capacity_w": 350,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite OMNIVS1000",
+    "image": "https://m.media-amazon.com/images/I/41u9YF7hDXL.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite OMNIVS1500XL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aee535c611c4c43a562c68bfb7aa8262.256p.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART2200VS",
+    "image": "https://m.media-amazon.com/images/I/41mtbzFuyuL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMX1500LCDT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7dc7bf95831e473b6674ba92d1311d40.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SM1000RM1UTAA",
+    "image": "https://m.media-amazon.com/images/I/319usr4F8fL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMC10002URM",
+    "image": "https://m.media-amazon.com/images/I/416RLGTOqpL.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1000J",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC BE325-GR",
+    "image": "https://m.media-amazon.com/images/I/31BfntvMxtL.jpg",
+    "price": null,
+    "capacity_w": 185,
+    "capacity_va": 325
+  },
+  {
+    "name": "APC BE350G-CN",
+    "image": "https://m.media-amazon.com/images/I/41QlTvQlYYL.jpg",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE400-GR",
+    "image": "https://m.media-amazon.com/images/I/416q-iqQCdL.jpg",
+    "price": null,
+    "capacity_w": 240,
+    "capacity_va": 400
+  },
+  {
+    "name": "APC BE450G",
+    "image": "https://m.media-amazon.com/images/I/3191pDqbZEL.jpg",
+    "price": null,
+    "capacity_w": 257,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC BE450G-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/82c7d78e03993ca0b0f8cc0e1198bffa.256p.jpg",
+    "price": null,
+    "capacity_w": 257,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC BE325",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f13d34825950ef22a3844a367554876b.256p.jpg",
+    "price": null,
+    "capacity_w": 185,
+    "capacity_va": 325
+  },
+  {
+    "name": "APC BE325-LM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ea97448bf74cfa165a19c4f7cf93ac58.256p.jpg",
+    "price": null,
+    "capacity_w": 185,
+    "capacity_va": 325
+  },
+  {
+    "name": "APC BE325R",
+    "image": "https://m.media-amazon.com/images/I/31ToftrJAtL.jpg",
+    "price": null,
+    "capacity_w": 185,
+    "capacity_va": 325
+  },
+  {
+    "name": "APC BE350",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4bd9138f3f6bfacf269a0d253cd0c356.256p.jpg",
+    "price": null,
+    "capacity_w": 225,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE350C",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3262aa03d019635b0414db5649402255.256p.jpg",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE350G-LM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5429de0665f5106b4d548d1ca512cb71.256p.jpg",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE350R-CN",
+    "image": "https://m.media-amazon.com/images/I/21FENP47KAL.jpg",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE350U-CN",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 200,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE400-CP",
+    "image": "https://m.media-amazon.com/images/I/31+iYZTN5jL.jpg",
+    "price": null,
+    "capacity_w": 240,
+    "capacity_va": 400
+  },
+  {
+    "name": "APC BE400-FR",
+    "image": "https://m.media-amazon.com/images/I/31kZ1nspUqL.jpg",
+    "price": null,
+    "capacity_w": 240,
+    "capacity_va": 400
+  },
+  {
+    "name": "APC BE450G-LM",
+    "image": "https://m.media-amazon.com/images/I/414EdLzbIlL.jpg",
+    "price": null,
+    "capacity_w": 257,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC BE500R",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bb05c7c137a38abce6e82fa187ce6632.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BE500R-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3e3c1542562acbea50b48b041d2745eb.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BE500U-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/504e54390beafaf24e69c381fbb4d8be.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BE525-RS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/22d5b39c77a5ca1edb4be5c7d24c1b8f.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 525
+  },
+  {
+    "name": "APC BE550-CP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b420de6c89b5bb23c6994a6a4fb16960.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE550-GR",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/21T4KPYHDGL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE550-UK",
+    "image": "https://m.media-amazon.com/images/I/31vKk+I+DAL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BF350U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1036f1d10085028524e1894d5dd676e1.256p.jpg",
+    "price": null,
+    "capacity_w": 225,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BE550G-CN",
+    "image": "https://m.media-amazon.com/images/I/31x+4OQEXXL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE550G-GR",
+    "image": "https://m.media-amazon.com/images/I/41-40Ojp4OL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE550G/LM",
+    "image": "https://m.media-amazon.com/images/I/41RhkHBWgbL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE550R",
+    "image": "https://m.media-amazon.com/images/I/31FaOF7V0wL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE550R-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a24d642f0d1cae6eff28ef527a8a7ddf.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC BE600-LM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/66225e5cc29ddff058e90eb7128a1e2a.256p.jpg",
+    "price": null,
+    "capacity_w": 360,
+    "capacity_va": 600
+  },
+  {
+    "name": "APC BE650BB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41fKVO78gmL.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650G",
+    "image": "https://m.media-amazon.com/images/I/318il+fyJPL.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650G1-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f53e02f4e7219a1307af8b3bdec5a373.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650G1-LM",
+    "image": "https://m.media-amazon.com/images/I/41g1ynN9-iL.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650G-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/44e37a0694a1b89dd2e7ca74a599ad52.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650G-LM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0f8a165e97fa647c4343e6a404e6f67e.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650MC",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650R",
+    "image": "https://m.media-amazon.com/images/I/41z5297tdjL.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE650R-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aa4db1ae7afbedb29495552da282efbf.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 650
+  },
+  {
+    "name": "APC BE700-AZ",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/52fe8e8d7408a3cc6a4f384f0a862e0a.256p.jpg",
+    "price": null,
+    "capacity_w": 405,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BE700-CP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/340ac8fad5eb93f4063117d32693aa9e.256p.jpg",
+    "price": null,
+    "capacity_w": 405,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BE700G-GR",
+    "image": "https://m.media-amazon.com/images/I/41rmGEay1UL.jpg",
+    "price": null,
+    "capacity_w": 405,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BE700-GR",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 405,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BE700-UK",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41W7lqbkNkL.jpg",
+    "price": null,
+    "capacity_w": 405,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC BE750BB",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC BE750BB-CN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7c658a4cbe55b28a0116d29148e908b5.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC BE750BBX450",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c9ba4240ddd8e1db24bb1d30a76ab04c.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC BE750G-CN",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC BE750G-LM",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC BF350-FR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a9b4346fab37408076524f3573959dbc.256p.jpg",
+    "price": null,
+    "capacity_w": 225,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BF350-GR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ca5a778f9ce4137e878b47de58d72851.256p.jpg",
+    "price": null,
+    "capacity_w": 225,
+    "capacity_va": 350
+  },
+  {
+    "name": "APC BF500",
+    "image": "https://m.media-amazon.com/images/I/411xXByVobL.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BF500-AZ",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/68fe4cf9f64bf5f56150ef4f45b351eb.256p.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BF500-GR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6e3f5766ce86adf62468dace069465b1.256p.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BF500U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/720a87afa3aef8fcc179fa72d4b054fc.256p.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BF500-UK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5c941f1b37dae852c463201fdb634906.256p.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BG500",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/de22c1cbe77a6c5234ba45aea74889e8.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BH500INET",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/148abf836b669db48f60bd9b6fbb7514.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BH500NET",
+    "image": "https://m.media-amazon.com/images/I/31bQ9Dn44kL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BK200",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b3d1781e219dc06a1d5d15c1e1f878e9.256p.jpg",
+    "price": null,
+    "capacity_w": 130,
+    "capacity_va": 200
+  },
+  {
+    "name": "APC BK300C",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/861954749a2f1ef7a951446a8ff7fbf4.256p.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 300
+  },
+  {
+    "name": "APC BK300MI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/90e685ccf5f05f6be242abda200e6ed2.256p.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 300
+  },
+  {
+    "name": "APC BK400",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 250,
+    "capacity_va": 400
+  },
+  {
+    "name": "APC BK450",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC BK500BLK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3fc4cb10ccf75a412817982016152c09.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BK500JP",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a50fcae01622a3090211cc7ac9ac3d65.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BK500JS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5eba926f67ccf9a16f52dc18f0e646c6.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BK500MI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6f4f495ab8054ad8f2f752ef4b8b538b.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC BK600",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 400,
+    "capacity_va": 600
+  },
+  {
+    "name": "APC BN4001",
+    "image": "https://m.media-amazon.com/images/I/41B-i2No3iL.jpg",
+    "price": null,
+    "capacity_w": 257,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC BR1300G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bb9acb434ce6b5b4ff83132c2e176b6b.256p.jpg",
+    "price": null,
+    "capacity_w": 780,
+    "capacity_va": 1300
+  },
+  {
+    "name": "APC BR550GI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4cd99029b46a0200c17377c828033b07.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "APC J10BLK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1796a2a016c446be1282ffad32567f4d.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC J15BLK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/24482e908dbbdd7bfaf36f240d83cd86.256p.jpg",
+    "price": null,
+    "capacity_w": 865,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SC1000",
+    "image": "https://m.media-amazon.com/images/I/31OyvYkfVpL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SC1000I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4835622c1dc568c42299f906b4d0a088.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SC1500I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bbdcc40d6cc49b0364d97ab3e065ae83.256p.jpg",
+    "price": null,
+    "capacity_w": 865,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SC420",
+    "image": "https://m.media-amazon.com/images/I/41nW8Fit1wL.jpg",
+    "price": null,
+    "capacity_w": 260,
+    "capacity_va": 420
+  },
+  {
+    "name": "APC SC420I",
+    "image": "https://m.media-amazon.com/images/I/41EsL4psVgL.jpg",
+    "price": null,
+    "capacity_w": 260,
+    "capacity_va": 420
+  },
+  {
+    "name": "APC SC450R1X542",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/980235a8a9d02357f5d693ea935e1537.256p.jpg",
+    "price": null,
+    "capacity_w": 280,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC SC450RM1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8c15f8e22c00eda784778c4c366ca0e3.256p.jpg",
+    "price": null,
+    "capacity_w": 280,
+    "capacity_va": 450
+  },
+  {
+    "name": "APC SC620",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41MO0bOQBRL.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 620
+  },
+  {
+    "name": "APC SC620X565",
+    "image": "https://m.media-amazon.com/images/I/31I4WHFW39L.jpg",
+    "price": null,
+    "capacity_w": 410,
+    "capacity_va": 620
+  },
+  {
+    "name": "APC SMC1000-2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4cd9e129503cd3aceba1f13c26f0fe79.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMC1000I-2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fab13b9052e3af71946978cbadc47923.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMC1500-2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7a335ba8bd1d9c4a9cecab099790ea5c.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMC1500I-2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0a0800f545273a2d362180b2697e0fac.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT1000I",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e3b9dc223a1943f98bcee97ea8b91375.256p.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1000RM2U",
+    "image": "https://m.media-amazon.com/images/I/31Mu4eqYehL.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1000RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e246e543e0b09345b462789cd2829c56.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1000US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bc198f6b56b95f9e9b343606bf54510a.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SMT1500J",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f24b0263de32f86c051eace54305b365.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT1500R2X180",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31UEv5n17-L.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT1500RM1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1821f825c6f62de2e8808fb21cde8daa.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SMT1500RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a3d411dcb57aa07f78c62b46ab83dc82.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT1500X413",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/41Lh5P0NynL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMT2200",
+    "image": "https://m.media-amazon.com/images/I/41UT9sp9hNL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMT2200R2X106",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/12a86f5ac345177b8bc7b123ca263136.256p.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SMT3000R2X180",
+    "image": "https://m.media-amazon.com/images/I/31IxIADNoeL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMT3000RMT2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bddd1565437100285782cd0bd4786806.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMT3000RMUS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b59b9fd5ddfbbb7eefb4299a7e6841ce.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 2880
+  },
+  {
+    "name": "APC SMT750",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/51hh-D7mMLL.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMT750R2-NMC",
+    "image": "https://m.media-amazon.com/images/I/41StKHKtK6L.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMT750RM2U",
+    "image": "https://m.media-amazon.com/images/I/41JBHOHjH2L.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMT750RMI2U",
+    "image": "https://m.media-amazon.com/images/I/31zC4pRizwL.jpg",
+    "price": 658.47,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SMX1500RM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8c275c87290c178c83fc5e8091409fd6.256p.jpg",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SMX2000RMLV2U",
+    "image": "https://m.media-amazon.com/images/I/31EnOdfihDL.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 1920
+  },
+  {
+    "name": "APC SMX3000HVT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e1a5049c3146aa2628088d0a59128bc2.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SMX750",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ea953871e4e32f8ab22c5a6a5bec9a7e.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SU1000RMI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/96d9c04027903c17862bfa45700cd306.256p.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SU1000XLNET",
+    "image": "https://m.media-amazon.com/images/I/41Mwj4-ukTL.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SU1400RMXLIB3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/db80d8ebf25f422007ce842ada6c2e15.256p.jpg",
+    "price": null,
+    "capacity_w": 1050,
+    "capacity_va": 1400
+  },
+  {
+    "name": "APC SU5000R5TBX120",
+    "image": "https://m.media-amazon.com/images/I/31bNk1X5jWL.jpg",
+    "price": null,
+    "capacity_w": 3750,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC SUA1000RMI1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/413c4bac27b98b737b4bb2f39078d54a.256p.jpg",
+    "price": 411,
+    "capacity_w": 640,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SUA1500R2X122",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/eec474ae599056c5a8f9b9eb9a5800a6.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA1500R2X138",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d919cc24c35be880009ddb7f742184db.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA1500R2X93",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/70ab8bd220e9682ab6e560704a7c8081.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA1500RMI2U",
+    "image": "https://m.media-amazon.com/images/I/31w88BT9noL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SUA1500RMJ2UB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1f8d48803fa7f314f5c76eddc1ac9ec2.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SUA2200",
+    "image": "https://m.media-amazon.com/images/I/41S4MMXOBCL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SUA2200R2X147",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1bf7615751bb00cce0f38eea68254312.256p.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SUA2200XL",
+    "image": "https://m.media-amazon.com/images/I/41RDFj93ncL.jpg",
+    "price": null,
+    "capacity_w": 1850,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SUA2200XLI",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51NXSnHsleL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SUA3000",
+    "image": "https://m.media-amazon.com/images/I/310vXSXVEdL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000I",
+    "image": "https://m.media-amazon.com/images/I/21vAHTtSaRL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000R2IX38",
+    "image": "https://m.media-amazon.com/images/I/415jo9WduQL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000RM2U",
+    "image": "https://m.media-amazon.com/images/I/31pTbEL7puL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000RMI2U",
+    "image": "https://m.media-amazon.com/images/I/415+dpyr1yL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000XL",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51rHG174bTL.jpg",
+    "price": 2057,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000XLI",
+    "image": "https://m.media-amazon.com/images/I/21LMk50uz9L.jpg",
+    "price": 1746,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA3000XLT",
+    "image": "https://m.media-amazon.com/images/I/41qjkLWlK3L.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA5000R5TXFMR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/56ff1cb23ce7d50d707735606e81924e.256p.jpg",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "APC SUA500PDRI-H",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/21Z0A%2B4BVLL.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 500
+  },
+  {
+    "name": "APC SUA750IX38",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e8c5c54e9329c22f07c633e183a00102.256p.jpg",
+    "price": 456.68,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUA750R2IX38",
+    "image": "https://m.media-amazon.com/images/I/31K9ersMOKL.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUA750R2X338",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e7c761f1054657269b545cc50fea032f.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUA750RMI2U",
+    "image": "https://m.media-amazon.com/images/I/218GysmyQwL.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUA750RMJ1UB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/428e8f5328feca133a110e252b4bec64.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUA750XLI",
+    "image": "https://m.media-amazon.com/images/I/41qC+Mh7aEL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUM1500RMXLI2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5a65578ef60c7e71dcde2db7be762d9f.256p.jpg",
+    "price": null,
+    "capacity_w": 1425,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SURT1000RMXLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f0b7c7577bde6d72a8f1bc9e84772736.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SURT1000XLI",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aaa0511a3c7f7bd6dc5f986712135124.256p.jpg",
+    "price": 455,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SURT1000XLIM",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/316K5FlVDML.jpg",
+    "price": 1928.8,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SURT2000RMXLI",
+    "image": "https://m.media-amazon.com/images/I/3114dSbjHtL.jpg",
+    "price": null,
+    "capacity_w": 1400,
+    "capacity_va": 2000
+  },
+  {
+    "name": "APC SURT2000XLI",
+    "image": "https://m.media-amazon.com/images/I/3114dSbjHtL.jpg",
+    "price": null,
+    "capacity_w": 1400,
+    "capacity_va": 2000
+  },
+  {
+    "name": "APC SURT6000RMXLT3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1e5ab021540e109716e02a71b159653b.256p.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "APC SURT6000XLT",
+    "image": "https://m.media-amazon.com/images/I/41jMrLxYxaL.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "APC SURTA1000RMXL2U",
+    "image": "https://m.media-amazon.com/images/I/31K6E2lRaNL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SURTA1000XL",
+    "image": "https://m.media-amazon.com/images/I/41KWfQDx18L.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SURTA1500XL",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/41SAyj7qZ3L.jpg",
+    "price": null,
+    "capacity_w": 1050,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC SURTA2200RMXL2U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31u9dHcJXVL.jpg",
+    "price": null,
+    "capacity_w": 1750,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SURTA2200XL",
+    "image": "https://m.media-amazon.com/images/I/417+5AwybfL.jpg",
+    "price": null,
+    "capacity_w": 1750,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SURTA3000RMXL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9a9a5a1f054a389a3b9547a667909343.256p.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SURTD3000RMXLI",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SURTD3000RMXLT3U",
+    "image": "https://m.media-amazon.com/images/I/31-rsVsp-OL.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SURTD3000XLI",
+    "image": "https://m.media-amazon.com/images/I/41UHTTP7nUL.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SURTD5000RMXLT3U",
+    "image": "https://m.media-amazon.com/images/I/31o40gocFeL.jpg",
+    "price": null,
+    "capacity_w": 3500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite AVR550U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/37b60845ea119879b4776b535a52c911.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite AVR650UM",
+    "image": "https://m.media-amazon.com/images/I/416P++lue5L.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 650
+  },
+  {
+    "name": "Tripp Lite AVR700UXRM",
+    "image": "https://m.media-amazon.com/images/I/41eIDXffpSL.jpg",
+    "price": null,
+    "capacity_w": 350,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite AVR750U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/643b31e92d8abd0453e8721afa6da492.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite AVR900UTAA",
+    "image": "https://m.media-amazon.com/images/I/41ZQx4W05CL.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 900
+  },
+  {
+    "name": "Tripp Lite AVRX550U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/14898ba24e48bf7af709399449366d7d.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite AVRX750U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d1471c5f5fc0913940b7a0eb13feec28.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite BC600SINE",
+    "image": "https://m.media-amazon.com/images/I/41WX4wH4wUL.jpg",
+    "price": null,
+    "capacity_w": 375,
+    "capacity_va": 600
+  },
+  {
+    "name": "Tripp Lite BCPERS300",
+    "image": "https://m.media-amazon.com/images/I/31+Vzd+S4iL.jpg",
+    "price": null,
+    "capacity_w": 175,
+    "capacity_va": 300
+  },
+  {
+    "name": "Tripp Lite BCPERS450",
+    "image": "https://m.media-amazon.com/images/I/31gkYGzHo-L.jpg",
+    "price": null,
+    "capacity_w": 280,
+    "capacity_va": 450
+  },
+  {
+    "name": "Tripp Lite BCPERSONAL450",
+    "image": "https://m.media-amazon.com/images/I/31gkYGzHo-L.jpg",
+    "price": null,
+    "capacity_w": 280,
+    "capacity_va": 450
+  },
+  {
+    "name": "Tripp Lite BCPRO1050",
+    "image": "https://m.media-amazon.com/images/I/31AQR4OXXRL.jpg",
+    "price": null,
+    "capacity_w": 705,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite BCPRO1400",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/df7aae56a53b5b5264afa9fe2f8fbd00.256p.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1400
+  },
+  {
+    "name": "Tripp Lite BCPRO600",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1fec8dadab8cb6cb6cf25c8d65bdeb65.256p.jpg",
+    "price": null,
+    "capacity_w": 345,
+    "capacity_va": 600
+  },
+  {
+    "name": "Tripp Lite ECO550UPSTAA",
+    "image": "https://m.media-amazon.com/images/I/419rRC9AywL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite ECO650UPSM",
+    "image": "https://m.media-amazon.com/images/I/41-Enh1h+GL.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 650
+  },
+  {
+    "name": "Tripp Lite ECO900UPSM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4512f0d5d214ed8e1d9d346235983468.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 900
+  },
+  {
+    "name": "Tripp Lite HT850UPS",
+    "image": "https://m.media-amazon.com/images/I/410akF+khnL.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite HTRL15UPS",
+    "image": "https://m.media-amazon.com/images/I/11wmbqlJURL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite INTERNET350SER",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e8960c92053cb2d0cc94e3e8e489ae9a.256p.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 350
+  },
+  {
+    "name": "Tripp Lite INTERNETOFFICE300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d499fe8fa234b112f1fcbe5a68fd8cb3.256p.jpg",
+    "price": null,
+    "capacity_w": 150,
+    "capacity_va": 300
+  },
+  {
+    "name": "Tripp Lite INTERNETOFFICE500",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 280,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite INTERNETOFFICE700",
+    "image": "https://m.media-amazon.com/images/I/31TpcpLpYXL.jpg",
+    "price": null,
+    "capacity_w": 425,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite INTRNT OFFC700R",
+    "image": "https://m.media-amazon.com/images/I/31TpcpLpYXL.jpg",
+    "price": null,
+    "capacity_w": 425,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite OMNI500ISO",
+    "image": "https://m.media-amazon.com/images/I/41mB3B550RL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite OMNI650LCD",
+    "image": "https://m.media-amazon.com/images/I/319iX4I-EcL.jpg",
+    "price": null,
+    "capacity_w": 350,
+    "capacity_va": 650
+  },
+  {
+    "name": "Tripp Lite OMNI700LCD",
+    "image": "https://m.media-amazon.com/images/I/41KLsUru7hL.jpg",
+    "price": null,
+    "capacity_w": 420,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite OMNI900LCD",
+    "image": "https://m.media-amazon.com/images/I/31vQpogP08L.jpg",
+    "price": null,
+    "capacity_w": 475,
+    "capacity_va": 900
+  },
+  {
+    "name": "Tripp Lite OMNISMART1400",
+    "image": "https://m.media-amazon.com/images/I/314EV-RcbaL.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1400
+  },
+  {
+    "name": "Tripp Lite OMNISMART1400PNP",
+    "image": "https://m.media-amazon.com/images/I/314EV-RcbaL.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1400
+  },
+  {
+    "name": "Tripp Lite OMNISMART300PNP",
+    "image": "https://m.media-amazon.com/images/I/411le+e7QmL.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 300
+  },
+  {
+    "name": "Tripp Lite OMNISMART350HG",
+    "image": "https://m.media-amazon.com/images/I/41ZYwvxxX+L.jpg",
+    "price": null,
+    "capacity_w": 225,
+    "capacity_va": 330
+  },
+  {
+    "name": "Tripp Lite OMNISMART500",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/55bade86c6aafb955dcff4816f0c215b.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite OMNISMART700",
+    "image": "https://m.media-amazon.com/images/I/416SH4CkO2L.jpg",
+    "price": null,
+    "capacity_w": 425,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite OMNI SMT300PNP",
+    "image": "https://m.media-amazon.com/images/I/411le+e7QmL.jpg",
+    "price": null,
+    "capacity_w": 180,
+    "capacity_va": 300
+  },
+  {
+    "name": "Tripp Lite OMNIVS500U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c2303341f583da097eb5071c81b26d65.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite OMNIVS800",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2e71a3024069dad6d72b9578401619b0.256p.jpg",
+    "price": null,
+    "capacity_w": 475,
+    "capacity_va": 800
+  },
+  {
+    "name": "Tripp Lite OMNIVSINT1000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7085783ef8456d32de594f08db701bc3.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite OMNIVSINT800",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/42dbf7e448f4515e9c8ffa7779f65a36.256p.jpg",
+    "price": null,
+    "capacity_w": 475,
+    "capacity_va": 800
+  },
+  {
+    "name": "Tripp Lite OMNIX1500XLTAA",
+    "image": "https://m.media-amazon.com/images/I/31VOKSUER6L.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite OMNIX350HG",
+    "image": "https://m.media-amazon.com/images/I/41EaoGMhLzL.jpg",
+    "price": null,
+    "capacity_w": 225,
+    "capacity_va": 350
+  },
+  {
+    "name": "Tripp Lite POS500",
+    "image": "https://m.media-amazon.com/images/I/410ZTX8q-SL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite SM1000RM2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/48a1822fd3c7b6c11a705e71b9b1e663.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SM1050NAFTA",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 705,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite SM1500RMXL2UTAA",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41WcoDuZeoL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SM2200NAFTA",
+    "image": "https://m.media-amazon.com/images/I/41kJ5v-0C6L.jpg",
+    "price": null,
+    "capacity_w": 1700,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SM2200RMDVTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ed7a172f6d0a2b83908e7551782654ba.256p.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SM2200RMNAFTA",
+    "image": "https://m.media-amazon.com/images/I/41rq-4bK7yL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SM3000NAFTA",
+    "image": "https://m.media-amazon.com/images/I/31lvNMQ08eL.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SM3000RM2UNTAA",
+    "image": "https://m.media-amazon.com/images/I/31yL24JgJtL.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SM3000RMNAFTA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/974aa223ffa9b7c64837aee97acf7009.256p.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SM3000RMXLNTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/87143393de17a8f966dc5f2eb516bfec.256p.jpg",
+    "price": null,
+    "capacity_w": 2880,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SM500RMNAFTA",
+    "image": "https://m.media-amazon.com/images/I/11nb5mtBqsL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite SMART1000LCDTAA",
+    "image": "https://m.media-amazon.com/images/I/418L+yK2mgL.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMART1000RM1U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31-8iwDlrkL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMART1000RM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1983f046df565504f8b7b51b916270ec.256p.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMART1000RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/83090d649a8a67d12c64b8a01518d55f.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMART1050",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b1a851ed123da562012e3e3de6412e0b.256p.jpg",
+    "price": null,
+    "capacity_w": 705,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite SMART1050SLTAA",
+    "image": "https://m.media-amazon.com/images/I/41V21AXXkIL.jpg",
+    "price": null,
+    "capacity_w": 650,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite SMART1200LCD",
+    "image": "https://m.media-amazon.com/images/I/312GfmUuK+L.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1200
+  },
+  {
+    "name": "Tripp Lite SMART1200XLHG",
+    "image": "https://m.media-amazon.com/images/I/51DCpCbAAwL.jpg",
+    "price": null,
+    "capacity_w": 750,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMART1500CRMXL",
+    "image": "https://m.media-amazon.com/images/I/31QnXSo0PgL.jpg",
+    "price": null,
+    "capacity_w": 1440,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500RM2UN",
+    "image": "https://m.media-amazon.com/images/I/21fG2NRiHJL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aa7ac60ce7331fd36286998ee80f7493.256p.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500XL",
+    "image": "https://m.media-amazon.com/images/I/41FRJQ7-7kL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART1500XLTAA",
+    "image": "https://m.media-amazon.com/images/I/41c2kA5tiYL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART2200CRMXL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b1ff682bc53beecb140ebfe326f5ed94.256p.jpg",
+    "price": null,
+    "capacity_w": 1900,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART2200RM2UN",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/3172yBQBJnL.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite ECO750UPSTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e3acc9b405dde39d88e4471e41f35d06.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite TE1200",
+    "image": "https://m.media-amazon.com/images/I/41KkJwaK0WL.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1200
+  },
+  {
+    "name": "Tripp Lite TE600",
+    "image": "https://m.media-amazon.com/images/I/41kZlo+hOQL.jpg",
+    "price": null,
+    "capacity_w": 425,
+    "capacity_va": 600
+  },
+  {
+    "name": "Tripp Lite SMART2200RMXLN",
+    "image": "https://m.media-amazon.com/images/I/31JjgsF-EdL.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART2200SLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e61ab333a80c037203b4e4f97d32bdc8.256p.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART2200SLTAA",
+    "image": "https://m.media-amazon.com/images/I/41aObRpIqyL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART2600RM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0602ecb08ae3edea70a9c3768b29307d.256p.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2600
+  },
+  {
+    "name": "Tripp Lite SMART3000CRMXL",
+    "image": "https://m.media-amazon.com/images/I/41nScHdEkuL.jpg",
+    "price": null,
+    "capacity_w": 2880,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART3000RM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/dd4ac62641442a2f943cf3d78af9d086.256p.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART3000RM2UN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0a7d849ef3fd1526c395ba18691e2176.256p.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU2200RTXL2UN",
+    "image": "https://m.media-amazon.com/images/I/31KI4HyecvL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU2200RTXLCD2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c70883953bb962ec616a2854b8606753.256p.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU2200XLA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/684932828583298403fb5e92e9519c72.256p.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SU3000RTXL2U",
+    "image": "https://m.media-amazon.com/images/I/41dCfI0msjL.jpg",
+    "price": null,
+    "capacity_w": 2500,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU3000RTXL3UHV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f6ca287b9681801f64c4915efbb3f014.256p.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU3000RTXL3UN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f074d4998f1a77175d52e67bf526a5e1.256p.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU3000RTXLCD3U",
+    "image": "https://m.media-amazon.com/images/I/31tDmjRUZAL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU3000RTXR3U",
+    "image": "https://m.media-amazon.com/images/I/31+m0FQSwwL.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU3000XL",
+    "image": "https://m.media-amazon.com/images/I/51mLGAX5wUL.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU3000XLNAFTA",
+    "image": "https://m.media-amazon.com/images/I/21d9WNTvFJL.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU5000RT3U",
+    "image": "https://m.media-amazon.com/images/I/41vDPyEJEJL.jpg",
+    "price": null,
+    "capacity_w": 3500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite SU5000RT3UHV",
+    "image": "https://m.media-amazon.com/images/I/41SeazoLPhL.jpg",
+    "price": null,
+    "capacity_w": 3500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite SU5000RT4U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/64eecc756706d53e09c7b9869647067a.256p.jpg",
+    "price": null,
+    "capacity_w": 3800,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite SU6000RT3U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/517BNGrEEnL.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT3UHV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bceff33baf692e0c48e9a1eb79f12fff.256p.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT3UHVXL",
+    "image": "https://m.media-amazon.com/images/I/413YChOuOiL.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT4U",
+    "image": "https://m.media-amazon.com/images/I/41KaY8rFrsL.jpg",
+    "price": null,
+    "capacity_w": 4200,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT4UHV",
+    "image": "https://m.media-amazon.com/images/I/31duDe4FfAL.jpg",
+    "price": null,
+    "capacity_w": 5400,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT4UHVG",
+    "image": "https://m.media-amazon.com/images/I/31iUjDUpZQL.jpg",
+    "price": null,
+    "capacity_w": 5400,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT4UHVHW",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/100454063d1f2f545ee47a76bab73ae4.256p.jpg",
+    "price": null,
+    "capacity_w": 5400,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT4UTF",
+    "image": "https://m.media-amazon.com/images/I/41zAU6maxdL.jpg",
+    "price": null,
+    "capacity_w": 5400,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU6000RT4UTFHW",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0d62bc552b444afb1eefbb4cc923bdf8.256p.jpg",
+    "price": null,
+    "capacity_w": 5400,
+    "capacity_va": 6000
+  },
+  {
+    "name": "Tripp Lite SU750RTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31NuOnWyLPL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SU750RTXLCD2U",
+    "image": "https://m.media-amazon.com/images/I/31E8swVhrfL.jpg",
+    "price": null,
+    "capacity_w": 675,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SU750XL",
+    "image": "https://m.media-amazon.com/images/I/5165RnUCg3L.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SU8000RT3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b7fc192e8f5cd1961ce85f6d29a58a1d.256p.jpg",
+    "price": null,
+    "capacity_w": 6400,
+    "capacity_va": 8000
+  },
+  {
+    "name": "Tripp Lite SU8000RT3UG",
+    "image": "https://m.media-amazon.com/images/I/51GwGBvmmCL.jpg",
+    "price": null,
+    "capacity_w": 6400,
+    "capacity_va": 8000
+  },
+  {
+    "name": "Tripp Lite SU8000RT4U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41i8oCRZ8hL.jpg",
+    "price": null,
+    "capacity_w": 5600,
+    "capacity_va": 8000
+  },
+  {
+    "name": "Tripp Lite SUINT1000RTXL2UA",
+    "image": "https://m.media-amazon.com/images/I/31YQ32aks3L.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SUINT1500RTXL2UA",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SUINT2200RTXL2UA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/404bae7bc6834a82ce73879b0d97fa90.256p.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SUINT3000RTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31cvaCVOksL.jpg",
+    "price": null,
+    "capacity_w": 2500,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SUINT3000RTXL3U",
+    "image": "https://m.media-amazon.com/images/I/41je6glIiKL.jpg",
+    "price": null,
+    "capacity_w": 2400,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SU1500RMNAFTA",
+    "image": "https://m.media-amazon.com/images/I/1174voyczlL.jpg",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SU1500RTXL2UN",
+    "image": "https://m.media-amazon.com/images/I/31aaEBXOYiL.jpg",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SU1500XL",
+    "image": "https://m.media-amazon.com/images/I/41c-Op0GwSL.jpg",
+    "price": null,
+    "capacity_w": 1200,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMX5000XLRT3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2243c13ff34f524ecb64c3208d145033.256p.jpg",
+    "price": null,
+    "capacity_w": 3750,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite SMX500RT1U",
+    "image": "https://m.media-amazon.com/images/I/31dIwzXxBeL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite SMX750SLT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/765bc93c27f861084b352dda3edd3976.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SU10000RT3U2TF",
+    "image": "https://m.media-amazon.com/images/I/41imZ3PEY2L.jpg",
+    "price": null,
+    "capacity_w": 8000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "Tripp Lite SU1000RTXL2UA",
+    "image": "https://m.media-amazon.com/images/I/31Zpjv8NSmL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SU1000RTXLCD2U",
+    "image": "https://m.media-amazon.com/images/I/313BjTizpxL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SU1000XLA",
+    "image": "https://m.media-amazon.com/images/I/51jgCI13gTL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SU1000XLCD",
+    "image": "https://m.media-amazon.com/images/I/41Cp0oV3aBL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SU10KRT3UHV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4629c26592223a00c84fa6fcc5ae9fac.256p.jpg",
+    "price": null,
+    "capacity_w": 7000,
+    "capacity_va": 10000
+  },
+  {
+    "name": "Tripp Lite SU12000RT4U",
+    "image": "https://m.media-amazon.com/images/I/51QkiALdWAL.jpg",
+    "price": null,
+    "capacity_w": 8400,
+    "capacity_va": 12000
+  },
+  {
+    "name": "Tripp Lite SU12000RT4UHW",
+    "image": "https://m.media-amazon.com/images/I/41K51A7istL.jpg",
+    "price": null,
+    "capacity_w": 8400,
+    "capacity_va": 12000
+  },
+  {
+    "name": "Tripp Lite SMART750RM1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a209dd37ee540bb8c34c992e94101667.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMART750RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd4a3c8e2a323c4f7857a2ae1cf3fb7b.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMART750SLT",
+    "image": "https://m.media-amazon.com/images/I/41PN75S+BML.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMART750USB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/82a0ce5bea59fdc9024a14a269cc52a4.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMART750USBTAA",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMART750XL",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMART750XLA",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41sVGqV73pL.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite SMARTINT2200VS",
+    "image": "https://m.media-amazon.com/images/I/41IgwIFmOTL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMARTINT3000VS",
+    "image": "https://m.media-amazon.com/images/I/41OQol53q7L.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMX1000RT2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/81e83b381ce4e34e57d6fc0fc4298788.256p.jpg",
+    "price": 300,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite SMX1050SLT",
+    "image": "https://m.media-amazon.com/images/I/4119S5oqECL.jpg",
+    "price": null,
+    "capacity_w": 650,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite SMX1500LCD",
+    "image": "https://m.media-amazon.com/images/I/41rMjuVy9-L.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMX1500SLT",
+    "image": "https://m.media-amazon.com/images/I/31+iHntK5bL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMX2200RT2UTAA",
+    "image": "https://m.media-amazon.com/images/I/117VmUARraL.jpg",
+    "price": null,
+    "capacity_w": 1600,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMX2200XLRT2U",
+    "image": "https://m.media-amazon.com/images/I/31qPnY5kroL.jpg",
+    "price": 502,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "Tripp Lite SMART500RT1UTAA",
+    "image": "https://m.media-amazon.com/images/I/314F8a6w1JL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite SMART550USB",
+    "image": "https://m.media-amazon.com/images/I/21Dpnyh5GxL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite SMART550USBTAA",
+    "image": "https://m.media-amazon.com/images/I/51pzRRnMWrL.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 550
+  },
+  {
+    "name": "Tripp Lite SMART700",
+    "image": "https://m.media-amazon.com/images/I/41q2OLyp4+L.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite SMART700DVA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1d4e721407c3b5f5d52f6520b926bc5e.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite SMART700HG",
+    "image": "https://m.media-amazon.com/images/I/31jSwbzYn-L.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 700
+  },
+  {
+    "name": "Tripp Lite ECO650LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d63595e9e8616b76560e581ac210fc7a.256p.jpg",
+    "price": null,
+    "capacity_w": 325,
+    "capacity_va": 650
+  },
+  {
+    "name": "Tripp Lite OMNI1000ISO",
+    "image": "https://m.media-amazon.com/images/I/41q8N9IQR3L.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "Tripp Lite OMNIVSINT1500XL",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/898cadb2f3996bb8b4dd771193de11d1.256p.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SM1500XLNAFTA",
+    "image": "https://m.media-amazon.com/images/I/31amzPtmtvL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "Tripp Lite SMART3000RMOD2U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31Wn7BcUChL.jpg",
+    "price": null,
+    "capacity_w": 2880,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART3000SLT",
+    "image": "https://m.media-amazon.com/images/I/41s7Hl6+QKL.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART3000VS",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite SMART3000VSTAA",
+    "image": "https://m.media-amazon.com/images/I/41u5FHTDvLL.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "Tripp Lite OMNI750ISO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/07aba06bb3a33adc5589f098cd4b2e80.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "Tripp Lite OMNISMARTINT500PNP",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Tripp Lite SMART1050NET",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b1a851ed123da562012e3e3de6412e0b.256p.jpg",
+    "price": null,
+    "capacity_w": 705,
+    "capacity_va": 1050
+  },
+  {
+    "name": "Tripp Lite SMART5000RT3UXR",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 4000,
+    "capacity_va": 5000
+  },
+  {
+    "name": "Tripp Lite SMARTINT1400RM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c74e85251705f3d8cb4040b3140f46de.256p.jpg",
+    "price": null,
+    "capacity_w": 940,
+    "capacity_va": 1400
+  },
+  {
+    "name": "Tripp Lite SMX1000LCD",
+    "image": "https://m.media-amazon.com/images/I/31yI1XR3HnL.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC BR1500I",
+    "image": "https://m.media-amazon.com/images/I/219D3oS8L2L.jpg",
+    "price": null,
+    "capacity_w": 865,
+    "capacity_va": 1500
+  },
+  {
+    "name": "APC DLRT8000RMXLI6U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/80d778a2740108c254af6c41c0e5c2a7.256p.jpg",
+    "price": null,
+    "capacity_w": 6400,
+    "capacity_va": 8000
+  },
+  {
+    "name": "APC SU2200R3X167",
+    "image": "https://m.media-amazon.com/images/I/31ZMMLEZpWL.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SU700X167",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/41260f33ba9ea9ede31b825fb1074030.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 700
+  },
+  {
+    "name": "APC SUA1000",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SUA1000RM1U",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/31fJzOMflrL.jpg",
+    "price": null,
+    "capacity_w": 640,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SUA1000RM2U",
+    "image": "https://m.media-amazon.com/images/I/219BOGOa9SL.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SUA1000US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2f280482368b5896bf9f89bc7ac307f4.256p.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "APC SUA1500",
+    "image": "https://m.media-amazon.com/images/I/51QC+Icbi4L.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA1500-RF",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2df5591c323bc2c60882534a318994e9.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA1500RM2U",
+    "image": "https://m.media-amazon.com/images/I/31zRxbMrd4L.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA1500X93",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/87b43167f9eccab77c29881770d2f1cc.256p.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1440
+  },
+  {
+    "name": "APC SUA2200X115",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41CknIr-T1L.jpg",
+    "price": null,
+    "capacity_w": 1980,
+    "capacity_va": 2200
+  },
+  {
+    "name": "APC SUA3000RMXLI3U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d146d3b67474670d3e8a45086e4ac71e.256p.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SUA750RM1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17fc15172c6810b68e9bbbc33046c6cf.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 750
+  },
+  {
+    "name": "APC SUA750RMI1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f4858eba73f984e314ea93f7ee556781.256p.jpg",
+    "price": null,
+    "capacity_w": 480,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower BRG1500AVRLCDTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5d173423f71d08250c7a88b756e02379.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower BRG850AVRLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/86a612872b7cdb2d4fef053a43993cce.256p.jpg",
+    "price": null,
+    "capacity_w": 510,
+    "capacity_va": 850
+  },
+  {
+    "name": "CyberPower CP350SLG",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ba9cb8072b80a291550d06049f3d43cc.256p.jpg",
+    "price": null,
+    "capacity_w": 255,
+    "capacity_va": 350
+  },
+  {
+    "name": "CyberPower CP425SLG",
+    "image": "https://m.media-amazon.com/images/I/41PxUqU6OrL.jpg",
+    "price": null,
+    "capacity_w": 255,
+    "capacity_va": 425
+  },
+  {
+    "name": "CyberPower CP550SL",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41%2B7cSlCFQL.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "CyberPower CP550SLGTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f00f50917c9d8e0b64f4192ac76d41a3.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "CyberPower CP600LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e1e97e34a86b62c6085893fd50318320.256p.jpg",
+    "price": null,
+    "capacity_w": 340,
+    "capacity_va": 600
+  },
+  {
+    "name": "CyberPower CP685AVRLCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/89f836c972e80e5ab97383dbc6f07a51.256p.jpg",
+    "price": null,
+    "capacity_w": 390,
+    "capacity_va": 685
+  },
+  {
+    "name": "CyberPower CP750LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9997b8a8c04179f78965e2a97f6fbc6c.256p.jpg",
+    "price": null,
+    "capacity_w": 420,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower CP750LCDTAA",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41kSodn64KL.jpg",
+    "price": null,
+    "capacity_w": 420,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower CP825LCD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/730070f52fb23bd9551d532a37667fdf.256p.jpg",
+    "price": null,
+    "capacity_w": 450,
+    "capacity_va": 825
+  },
+  {
+    "name": "CyberPower CPS1500AVR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/674a0fee7a52ab8cb1cbe27b87ba70f5.256p.jpg",
+    "price": null,
+    "capacity_w": 950,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower CS24C12V2-E",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31Psq8JYVlL.jpg",
+    "price": null,
+    "capacity_w": 24,
+    "capacity_va": null
+  },
+  {
+    "name": "CyberPower EC350G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f772e71966429b90c0f180db89114409.256p.jpg",
+    "price": null,
+    "capacity_w": 255,
+    "capacity_va": 350
+  },
+  {
+    "name": "CyberPower EC550G",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3e6de06593768da89b4b26864c96d280.256p.jpg",
+    "price": null,
+    "capacity_w": 330,
+    "capacity_va": 550
+  },
+  {
+    "name": "CyberPower OL1000RTXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3ebdfe33c99cc6d43e8eedd299149dae.256p.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower OL2000RTXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0220431b3c747e9c8641d6f47500417c.256p.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 2200
+  },
+  {
+    "name": "CyberPower OL2200RTXL2U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/415Mf1%2BlGpL.jpg",
+    "price": null,
+    "capacity_w": 1800,
+    "capacity_va": 2200
+  },
+  {
+    "name": "CyberPower OL3000RMXL2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cda7c2f72776945515a7d990cfc58044.256p.jpg",
+    "price": null,
+    "capacity_w": 2100,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower OL6000RT3U",
+    "image": "https://m.media-amazon.com/images/I/510anlOV-4L.jpg",
+    "price": null,
+    "capacity_w": 5400,
+    "capacity_va": 6000
+  },
+  {
+    "name": "CyberPower OL8000RT3U",
+    "image": "https://m.media-amazon.com/images/I/51NQHl18FnL.jpg",
+    "price": null,
+    "capacity_w": 7200,
+    "capacity_va": 8000
+  },
+  {
+    "name": "CyberPower OR1000LCDRM1U",
+    "image": "https://m.media-amazon.com/images/I/31qa8l4N6CL.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower OR1500LCDRT2U",
+    "image": "https://m.media-amazon.com/images/I/31xus8NtBXL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower OR700LCDRM1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17ba86be20a22844233a4c18c8355a9d.256p.jpg",
+    "price": null,
+    "capacity_w": 400,
+    "capacity_va": 700
+  },
+  {
+    "name": "CyberPower PR1000LCDRT1U",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/31CDz47xulL.jpg",
+    "price": null,
+    "capacity_w": 800,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1000LCDRT2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/af6c76950783e05a3f57387af1102029.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1000LCDRT2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1f7e2340fe860010ee62e429513003e4.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1000LCDRTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31Vv842eTdL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1000LCDRTXL2UA",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/31WV-dZsHUL.jpg",
+    "price": null,
+    "capacity_w": 750,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1000LCDTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4a1a54a365a6c729442c5c588aecf83b.256p.jpg",
+    "price": null,
+    "capacity_w": 700,
+    "capacity_va": 1000
+  },
+  {
+    "name": "CyberPower PR1500LCDRT2U",
+    "image": "https://m.media-amazon.com/images/I/31aCFoL61AL.jpg",
+    "price": 389,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR1500LCDRT2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a70f523f00205057b4dcb658b7245de3.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR1500LCDRTXL2Ua",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/31FSSiXMmVL.jpg",
+    "price": null,
+    "capacity_w": 1350,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR1500LCDRTXL2UTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ff473de3268dab329c0f08cc94bc5c8e.256p.jpg",
+    "price": null,
+    "capacity_w": 1125,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR1500LCDTAA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ac1fa11997e1b826bfb2d6b91ee1f406.256p.jpg",
+    "price": null,
+    "capacity_w": 1050,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR1500SWRM2U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/13c29caecd86b4a9017190c25a115ba8.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "CyberPower PR2200LCDRTXL2U",
+    "image": "https://m.media-amazon.com/images/I/31eIcOyEtcL.jpg",
+    "price": null,
+    "capacity_w": 2150,
+    "capacity_va": 2150
+  },
+  {
+    "name": "CyberPower PR2200LCDRTXL2UTAA",
+    "image": "https://m.media-amazon.com/images/I/31Es1rW+Z-L.jpg",
+    "price": null,
+    "capacity_w": 1650,
+    "capacity_va": 2150
+  },
+  {
+    "name": "CyberPower PR2200SWRM2U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31yDnKGo6mL.jpg",
+    "price": null,
+    "capacity_w": 1500,
+    "capacity_va": 2200
+  },
+  {
+    "name": "CyberPower PR3000LCDRT2U",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41PVtuv9eXL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower PR3000LCDRT2UTAA",
+    "image": "https://m.media-amazon.com/images/I/31DrY13630L.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "CyberPower PR500LCDRT1U",
+    "image": "https://m.media-amazon.com/images/I/31zArrDud3L.jpg",
+    "price": null,
+    "capacity_w": 400,
+    "capacity_va": 500
+  },
+  {
+    "name": "CyberPower PR6000LCDRTXL5U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41yMgx5y7SL.jpg",
+    "price": null,
+    "capacity_w": 4500,
+    "capacity_va": 6000
+  },
+  {
+    "name": "CyberPower PR750LCD",
+    "image": "https://m.media-amazon.com/images/I/41-H9TV+kpL.jpg",
+    "price": null,
+    "capacity_w": 525,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower PR750LCDRM1U",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/21xgdk5iZgL.jpg",
+    "price": null,
+    "capacity_w": 560,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower PR750LCDRT1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7a95087a2cba0a7ed27bbd96447c44d0.256p.jpg",
+    "price": null,
+    "capacity_w": 600,
+    "capacity_va": 700
+  },
+  {
+    "name": "CyberPower PR750LCDRTXL2U",
+    "image": "https://m.media-amazon.com/images/I/312cg0zP8gL.jpg",
+    "price": null,
+    "capacity_w": 675,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower PR750LCDTAA",
+    "image": "https://m.media-amazon.com/images/I/411iJTwufQL.jpg",
+    "price": null,
+    "capacity_w": 525,
+    "capacity_va": 750
+  },
+  {
+    "name": "CyberPower SE425G",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31FXSaK-F6L.jpg",
+    "price": null,
+    "capacity_w": 255,
+    "capacity_va": 425
+  },
+  {
+    "name": "Tripp Lite SMART500RT1U",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ce669d89fd3c0d4b14cf67049008a3e8.256p.jpg",
+    "price": null,
+    "capacity_w": 300,
+    "capacity_va": 500
+  },
+  {
+    "name": "Belkin F6C500-UNV",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/1167166ZATL.jpg",
+    "price": null,
+    "capacity_w": 275,
+    "capacity_va": 500
+  },
+  {
+    "name": "Fellowes 99066",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/64cc9057a2fc3e14839d85a50f34b88c.256p.jpg",
+    "price": null,
+    "capacity_w": null,
+    "capacity_va": 500
+  },
+  {
+    "name": "Fellowes 99067",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2f5085eabe0d9d7190195f694a9a073c.256p.jpg",
+    "price": null,
+    "capacity_w": null,
+    "capacity_va": 600
+  },
+  {
+    "name": "Fujitsu S26113-E400-L1",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/21qKwANbgFL.jpg",
+    "price": null,
+    "capacity_w": 980,
+    "capacity_va": 1500
+  },
+  {
+    "name": "HP AF418A",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/1189RS5M1xL.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "HP AF446A",
+    "image": "https://m.media-amazon.com/images/I/31c1mj2HeAL.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "HP AF447A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fb481a0846eb1736909c55c4718ed952.256p.jpg",
+    "price": null,
+    "capacity_w": 500,
+    "capacity_va": 750
+  },
+  {
+    "name": "HP AF448A",
+    "image": "https://m.media-amazon.com/images/I/31un-yoeWeL.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "HP AF449A",
+    "image": "https://ecx.images-amazon.com/images/I/21VOKTtoAiL.jpg",
+    "price": null,
+    "capacity_w": 670,
+    "capacity_va": 1000
+  },
+  {
+    "name": "HP AF451A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/29f0afa3c5090faae156fc83c33ec0b2.256p.jpg",
+    "price": null,
+    "capacity_w": 950,
+    "capacity_va": 1400
+  },
+  {
+    "name": "HP AF460A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d1625e9424df4d6f3b6c8fb0be291ce5.256p.jpg",
+    "price": null,
+    "capacity_w": 4500,
+    "capacity_va": 5000
+  },
+  {
+    "name": "HP AF466A",
+    "image": "https://m.media-amazon.com/images/I/31sHLYt-cNL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 2880
+  },
+  {
+    "name": "HP AF467A",
+    "image": "https://m.media-amazon.com/images/I/31sHLYt-cNL.jpg",
+    "price": null,
+    "capacity_w": 3000,
+    "capacity_va": 3300
+  },
+  {
+    "name": "HP AF468A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6b545bd251c7d93ffdb2a95ee0720e1b.256p.jpg",
+    "price": null,
+    "capacity_w": 3000,
+    "capacity_va": 3300
+  },
+  {
+    "name": "HP AF469A",
+    "image": "https://m.media-amazon.com/images/I/31BkmKcojoL.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "HP AF471A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f62c9c6d440a4cc1843a5381badd1971.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "IBM 2130R6X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6d2df8d5e0a9d40fbe4f108f93d8b302.256p.jpg",
+    "price": null,
+    "capacity_w": 1050,
+    "capacity_va": 1500
+  },
+  {
+    "name": "IBM 53951AX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/09c233f3922d827b2bee2ac4cae6b2b3.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "IBM 53951KX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/710ca1a7b964c4ec5b5389ba4790dc6f.256p.jpg",
+    "price": null,
+    "capacity_w": 1000,
+    "capacity_va": 1500
+  },
+  {
+    "name": "IBM 53952KX",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c38ba991e14b3de1b17cbcc7b25ff586.256p.jpg",
+    "price": null,
+    "capacity_w": 1920,
+    "capacity_va": 2200
+  },
+  {
+    "name": "IBM 53953KX",
+    "image": "https://m.media-amazon.com/images/I/41X4EqVOfQL.jpg",
+    "price": null,
+    "capacity_w": 2700,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC SU3000RMTX136",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/724931f5fded145a40cd1637262fe539.256p.jpg",
+    "price": null,
+    "capacity_w": 2250,
+    "capacity_va": 3000
+  },
+  {
+    "name": "APC BX600CI-IN",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "capacity_w": 360,
+    "capacity_va": 600
+  },
+  {
+    "name": "APC BR1500MS",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/411Zcnd%2BDXL.jpg",
+    "price": null,
+    "capacity_w": 900,
+    "capacity_va": 1500
+  }
+]

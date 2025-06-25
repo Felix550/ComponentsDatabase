@@ -1,0 +1,544 @@
+[
+  {
+    "name": "ARCTIC Case Fan Hub",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/efadfdb330778f08668a183b3932948f.256p.jpg",
+    "price": 9.99,
+    "channels": 10,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Lian Li UNI HUB – SL Controller",
+    "image": "https://m.media-amazon.com/images/I/01GDKQ7GpGL.jpg",
+    "price": 41.7,
+    "channels": 4,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Razer RZ34-02140700-R3M1",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ab2043638e65519e544de947a22adfb3.256p.jpg",
+    "price": 52.99,
+    "channels": 8,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "NZXT RGB & Fan Controller (2022)",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/84c5c9ec20981b5cc9958c9f2c3faecd.256p.jpg",
+    "price": 30.28,
+    "channels": 3,
+    "channel_wattage": 36,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Noctua NA-FH1",
+    "image": "https://m.media-amazon.com/images/I/41h0qQpQ5IL.jpg",
+    "price": 34.9,
+    "channels": 8,
+    "channel_wattage": 6,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Thermalright TL-FAN and ARGB HUB x8",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0fe563f978f6ca22fc4986657257b95e.256p.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Noctua NV-FH2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8f1b6e255d2c645d43fb2115a78ea164.256p.jpg",
+    "price": 44.9,
+    "channels": 8,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Thermalright TL-FAN-HUB-Controller",
+    "image": "https://m.media-amazon.com/images/I/31KTmDgxDIL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Thermalright TL-FAN HUB X4",
+    "image": "https://m.media-amazon.com/images/I/31LE4YZbbdL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Thermalright TL-FAN-HUB Controller Rev.A",
+    "image": "https://m.media-amazon.com/images/I/317zN4lvvkL.jpg",
+    "price": null,
+    "channels": 10,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Deepcool FH-04",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9835ea94302c8b39b2509f01934b4ee6.256p.jpg",
+    "price": 28.09,
+    "channels": 4,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Deepcool FH-10",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7ea84f7f19f2842191362180668b985a.256p.jpg",
+    "price": 33.39,
+    "channels": 10,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Thermaltake Commander FT",
+    "image": "https://m.media-amazon.com/images/I/41Vdr3fyD9L.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 10,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Deepcool SC790",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/11a72bf70b5ddcea72a329776fe9a71e.256p.jpg",
+    "price": 36.39,
+    "channels": 6,
+    "channel_wattage": null,
+    "pwm": false,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "EZDIY-FAB US-PWM fan hub",
+    "image": "https://m.media-amazon.com/images/I/31JS5tgGxeL.jpg",
+    "price": 22.05,
+    "channels": 10,
+    "channel_wattage": null,
+    "pwm": true,
+    "form_factor": null,
+    "color": "Black"
+  },
+  {
+    "name": "Silverstone FP59B",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b07394b07acac69dd1e4fdb162b17ba3.256p.jpg",
+    "price": null,
+    "channels": 1,
+    "channel_wattage": null,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": "Black"
+  },
+  {
+    "name": "Kingwin FPX-001",
+    "image": "https://m.media-amazon.com/images/I/41fhnRn9+HL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 8,
+    "pwm": false,
+    "form_factor": 3.5,
+    "color": null
+  },
+  {
+    "name": "Thermaltake Commander F6 RGB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fd8b4df1e1965922aaee7862a53213f4.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 0.03,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": "Black"
+  },
+  {
+    "name": "NZXT Sentry 2",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41%2BYQdEDnNL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 10,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "NZXT SENTRY 3",
+    "image": "https://m.media-amazon.com/images/I/41fFWQ9fSkL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 15,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool Touch 2000",
+    "image": "https://m.media-amazon.com/images/I/518Jk7QeaLL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 6,
+    "pwm": false,
+    "form_factor": [
+      2,
+      5.25
+    ],
+    "color": null
+  },
+  {
+    "name": "Lamptron FC2",
+    "image": "https://m.media-amazon.com/images/I/41a223ulx0L.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 45,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC-FC5V2-B",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d68e4903e5ef1df6f0908fe993045f37.256p.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 30,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC-CF525-BK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/eab690a01fd51d6b19622e24d426d59e.256p.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 60,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC Touch",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9fe9a114181a666bd6b65ae1ba7ebe89.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 30,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC-FANATIC-B",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/221b83885e3e1a8f2076bf2fe87ae215.256p.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 60,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "NZXT Sentry LX",
+    "image": "https://ecx.images-amazon.com/images/I/5117a7XamwL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 6,
+    "pwm": false,
+    "form_factor": [
+      2,
+      5.25
+    ],
+    "color": null
+  },
+  {
+    "name": "NZXT Sentry Mix 2",
+    "image": "https://m.media-amazon.com/images/I/41Lc8cxUIuL.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 30,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC6",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/97fa9ed9f470db654ead95c8d0f9584a.256p.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 10,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool CoolTouch E",
+    "image": "https://m.media-amazon.com/images/I/317lTlex8IL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 20,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": "Black"
+  },
+  {
+    "name": "Aerocool CoolTouch E",
+    "image": "https://m.media-amazon.com/images/I/41sAwde9wtL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 20,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": "White"
+  },
+  {
+    "name": "Aerocool CoolTouch-R Black",
+    "image": "https://m.media-amazon.com/images/I/31Po+fhq31L.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 20,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool F6XT",
+    "image": "https://m.media-amazon.com/images/I/41pHy0bSlzL.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 12,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Gelid Solutions SpeedTouch6",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/235ebfc2193f5d732f3212b894aed4e2.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 30,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Thermaltake AC-001-BN1NAN-A1",
+    "image": "https://m.media-amazon.com/images/I/41FgICva4lL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 8,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Kingwin FPX-003",
+    "image": "https://m.media-amazon.com/images/I/415kK4vQPTL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 8,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC-CM615-BK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d91a16c86fe6578748302a0611d15a47.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 15,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC-FC5V3-BK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b68ace7e9b7418b919d464a44077a2f1.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 30,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool Touch 2100",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/413QdHnlwkL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 25,
+    "pwm": false,
+    "form_factor": [
+      2,
+      5.25
+    ],
+    "color": null
+  },
+  {
+    "name": "NZXT Sentry Mesh",
+    "image": "https://m.media-amazon.com/images/I/41YhAtwPdnL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 30,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool Touch-1000",
+    "image": "https://m.media-amazon.com/images/I/41cBiT7MpaL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": null,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool V12XT",
+    "image": "https://m.media-amazon.com/images/I/41ufKQobXnL.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 6,
+    "pwm": false,
+    "form_factor": [
+      2,
+      5.25
+    ],
+    "color": null
+  },
+  {
+    "name": "BitFenix Recon (Black)",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5f0ef6074aa20b5f6aff22660f89d25a.med.256p.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 10,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "BitFenix Recon (White)",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/55565c09798810f5c0df3f407eeec412.med.256p.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 10,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron Fanatic",
+    "image": "https://m.media-amazon.com/images/I/419-SLZ+k4L.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 60,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC9",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/05a760e613a86e79c42f6b12dcf1c02d.256p.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 50,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron CW611-B",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/11f94ccabdf8e6386ab84279dbc2138f.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 36,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Lamptron FC-FC2-B",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1ca1cc56b0e8ec299dd8991696fc29ac.256p.jpg",
+    "price": null,
+    "channels": 6,
+    "channel_wattage": 45,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Aerocool Strike-X-X1000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31%2BBTmaxEJL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 25,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Deepcool ROCK MASTER V3.0",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 10,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Kingwin FPX-005",
+    "image": "https://m.media-amazon.com/images/I/41768dleqLL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 8,
+    "pwm": true,
+    "form_factor": 5.25,
+    "color": null
+  },
+  {
+    "name": "Scythe Kaze Master Flat II",
+    "image": "https://m.media-amazon.com/images/I/31X4+z+8k2L.jpg",
+    "price": null,
+    "channels": 4,
+    "channel_wattage": 36,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": "Black"
+  },
+  {
+    "name": "Aerocool X-Vision",
+    "image": "https://m.media-amazon.com/images/I/41X4XUxmOLL.jpg",
+    "price": null,
+    "channels": 5,
+    "channel_wattage": 0.008,
+    "pwm": false,
+    "form_factor": 5.25,
+    "color": "Black"
+  }
+]

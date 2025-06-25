@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ricerca</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .search-container {
+            background: #fff;
+            padding: 2.5rem 2rem;
+            border-radius: 18px;
+            box-shadow: 0 8px 32px rgba(44, 62, 80, 0.15);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 340px;
+        }
+
+        .search-container h1 {
+            margin-bottom: 1.5rem;
+            color: #333;
+            font-size: 2rem;
+            font-weight: 700;
+        }
+
+        .search-container h1 span select {
+            transform: translateY(-2.5px);
+        }
+
+        .search-form {
+            width: 100%;
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .search-form input[type="text"] {
+            flex: 1;
+            padding: 0.75rem 1rem;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 1rem;
+            outline: none;
+            transition: border 0.2s;
+        }
+
+        .search-form input[type="text"]:focus {
+            border: 1.5px solid #667eea;
+        }
+
+        .search-form button {
+            padding: 0.75rem 1.5rem;
+            background: #667eea;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .search-form button:hover {
+            background: #5a67d8;
+        }
+
+        .result {
+            color: #333;
+            font-size: 1.1rem;
+            min-height: 1.5em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="search-container">
+        <h1>
+            Ricerca in
+            <span>
+                <select id="categorySelect"
+                    style="padding: 0.5rem 1rem; border-radius: 8px; font-size: 1rem;">
+                    <option value="cpu">Processori</option>
+                    <option value="gpu">Schede Video</option>
+                </select>
+            </span>
+        </h1>
+
+        <form class="search-form" id="searchForm">
+            <input type="text" id="searchInput" name="name" placeholder="Cerca qualcosa..." required>
+            <button type="submit">Cerca</button>
+        </form>
+        <h2 id="result-count" style="align-self: normal;"></h2>
+        <div class="result" id="result"></div>
+    </div>
+    <script src="/search_cpu.js"></script>
+</body>
+
+</html>

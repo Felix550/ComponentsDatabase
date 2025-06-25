@@ -1,0 +1,58 @@
+[
+  {
+    "name": "NZXT HUE 2 RGB Lighting Kit",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4c6ee7cb60a2e62ef45e14acd8e3ca18.256p.jpg",
+    "price": null,
+    "type": "LED Controller",
+    "form_factor": 2.5
+  },
+  {
+    "name": "NZXT Hue+",
+    "image": "https://m.media-amazon.com/images/I/31tTYnoHNnL.jpg",
+    "price": null,
+    "type": "LED Controller",
+    "form_factor": 2.5
+  },
+  {
+    "name": "NZXT Aperture M",
+    "image": "https://m.media-amazon.com/images/I/51F5XshbsBL.jpg",
+    "price": null,
+    "type": "Card Reader",
+    "form_factor": 5.25
+  },
+  {
+    "name": "Vantec UGT-CR935",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8f29c79fbe68cdaaef7f6801b329566a.256p.jpg",
+    "price": null,
+    "type": "Card Reader",
+    "form_factor": 3.5
+  },
+  {
+    "name": "NZXT Hue",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a51c8fdadfec5bd6020e39c9c4cc44fa.256p.jpg",
+    "price": 33.21,
+    "type": "LED Controller",
+    "form_factor": 5.25
+  },
+  {
+    "name": "nMEDIAPC ZE-C668",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0ebada8096db76cfa427a7b9bf0664e2.med.256p.jpg",
+    "price": null,
+    "type": "Card Reader",
+    "form_factor": 5.25
+  },
+  {
+    "name": "Unitech U3903",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8e6afed5b6fbf073fe9a2ba2544da0dd.med.256p.jpg",
+    "price": null,
+    "type": "Card Reader",
+    "form_factor": 5.25
+  },
+  {
+    "name": "nMEDIAPC ZE-C288",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/252cbec6193c018672925026a3820b55.med.256p.jpg",
+    "price": null,
+    "type": "Card Reader",
+    "form_factor": 5.25
+  }
+]

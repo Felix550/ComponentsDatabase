@@ -1,0 +1,1289 @@
+[
+  {
+    "name": "Razer Kiyo Pro Ultra",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f0281d7b65771dacec49d796123aa7f6.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "2k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows"
+    ],
+    "fov": 82
+  },
+  {
+    "name": "Logitech BRIO Ultra HD Pro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6c931846f8b1f5346a3700526272ea24.256p.jpg",
+    "price": 169.99,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 82
+  },
+  {
+    "name": "Elgato Facecam Pro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/320ed317251127b3af9dad5fa21f1a23.256p.jpg",
+    "price": 378.9,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Anker PowerConf C200",
+    "image": "https://m.media-amazon.com/images/I/41rBxqhtMsL.jpg",
+    "price": 49.99,
+    "resolutions": [
+      "2k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 95
+  },
+  {
+    "name": "OBSBOT Tiny 2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4d3cc6020ee43a53aaacdefd372595a1.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "2k",
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 85.5
+  },
+  {
+    "name": "Logitech C920s HD Pro",
+    "image": "https://m.media-amazon.com/images/I/413c3lWANvL.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Logitech C270",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2ea46c5847b08c504b33b7d4c8ef39d7.256p.jpg",
+    "price": 21.99,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 60
+  },
+  {
+    "name": "Logitech C920 HD Pro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c62b66e9b02a82a043c913ff5f43b4f4.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Razer Kiyo",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9a20036a42989c40ac4815feccc3c380.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows"
+    ],
+    "fov": 81.6
+  },
+  {
+    "name": "Logitech BRIO STREAM",
+    "image": "https://m.media-amazon.com/images/I/31wEKbWlm5L.jpg",
+    "price": 173.75,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Razer Kiyo X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c38deaf6584dbc0f0ec53a2f11b486d9.256p.jpg",
+    "price": 57.69,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows"
+    ],
+    "fov": 82
+  },
+  {
+    "name": "Insta360 Link 2",
+    "image": "https://m.media-amazon.com/images/I/31q9st-QxJL.jpg",
+    "price": 229.99,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.5
+  },
+  {
+    "name": "Insta360 Insta360 Link",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d0984d0f24918d0e630272f95c2635de.256p.jpg",
+    "price": 199.95,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.5
+  },
+  {
+    "name": "Logitech MX BRIO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0409d03530d8a5018155eb75f450d468.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "1080p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "ChromeOS"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Logitech C922 Pro Stream HD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a0b4b1c257ffd6fdd62efe95b9c29201.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Adesso Cybertrack H2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d76586e4e1025fc9083aff89ac83f25d.256p.jpg",
+    "price": 27.93,
+    "resolutions": [
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 62
+  },
+  {
+    "name": "Elgato FACECAM MK.2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e585bff6bd397c38e48a1f9ee7362038.256p.jpg",
+    "price": 173.8,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 84
+  },
+  {
+    "name": "Green Extreme T200",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d63b78bf4915b1cba7284a5fb1c4dcaa.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 65
+  },
+  {
+    "name": "Logitech MX BRIO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/79f6e956fa576b73514f69ad5b0053bb.256p.jpg",
+    "price": 180.8,
+    "resolutions": [
+      "4k",
+      "1080p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "ChromeOS"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Adesso Cybertrack H6",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3f2fca48bf142ce9c9046c57213e3df8.256p.jpg",
+    "price": 69.93,
+    "resolutions": [
+      "4k"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 80
+  },
+  {
+    "name": "Razer Kiyo Pro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3ab4d36d1a140e821e72a40ca75b3372.256p.jpg",
+    "price": 114.62,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows"
+    ],
+    "fov": 103
+  },
+  {
+    "name": "Anker AnkerWork C310",
+    "image": "https://m.media-amazon.com/images/I/41e7iSQiX2L.jpg",
+    "price": 79.98,
+    "resolutions": [
+      "4k",
+      "1080p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 95
+  },
+  {
+    "name": "Adesso Cybertrack H4",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/609bd822e89f8c8fd2362da74f2a46fe.256p.jpg",
+    "price": 41.93,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Manual",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "OBSBOT MEET 2",
+    "image": "https://m.media-amazon.com/images/I/31C-AKF6QWL.jpg",
+    "price": 149,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.4
+  },
+  {
+    "name": "Logitech StreamCam",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bdbf664155ee32da5186146b7d1fb577.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Logitech C925e",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ff4f6037a18e3094582e405b4343ebf1.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Linux"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "NexiGo N660P",
+    "image": "https://m.media-amazon.com/images/I/31-gQF3VyXL.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Asus Webcam C3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/88b6f76371bca51927ef59daf3eae23c.256p.jpg",
+    "price": 45.99,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": null,
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": null
+  },
+  {
+    "name": "aoni A31",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6a4921a86a061ce0d1436bbaaedabafb.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Linux",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 84
+  },
+  {
+    "name": "OBSBOT MEET 2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/837cf1eaa26686f4a3032211d660b737.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.4
+  },
+  {
+    "name": "Logitech MX BRIO",
+    "image": "https://m.media-amazon.com/images/I/31MO34WBGhL.jpg",
+    "price": 181.43,
+    "resolutions": [
+      "4k",
+      "1080p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "ChromeOS"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Logitech StreamCam",
+    "image": "https://m.media-amazon.com/images/I/41nO6N1HloL.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Elgato Facecam Premium",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5cbc1fbecdd593379e7b61441df163ed.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Manual",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 82
+  },
+  {
+    "name": "Logitech C930e",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2a631278e6f31ff2b7e56515a98465d4.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Adesso CyberTrack H3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ac3d8ee27fabd3bfbd1532c21979049f.256p.jpg",
+    "price": 51.07,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Manual",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Avermedia PW310P",
+    "image": "https://m.media-amazon.com/images/I/41-byategfL.jpg",
+    "price": 49.99,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 73
+  },
+  {
+    "name": "Wansview 101JD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4669f48df62932d8e9ea3f01ac00eda0.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": null,
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Logitech B525",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cc7558d9e0f09bdad3d7b5b4bc2b6a6a.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 69
+  },
+  {
+    "name": "Creative Labs Live! Cam Sync 1080p",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/559d0c014a8ed673269ee19bab60e646.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 77
+  },
+  {
+    "name": "NexiGo N660P",
+    "image": "https://m.media-amazon.com/images/I/31R40S8TXRL.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Asus ROG EYE",
+    "image": "https://m.media-amazon.com/images/I/41yUZNYQ5rL.jpg",
+    "price": 79,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Avermedia PW513",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9b3296db77fc58a6c82f0accd32173a9.256p.jpg",
+    "price": 172.12,
+    "resolutions": [
+      "4k",
+      "1080p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 94
+  },
+  {
+    "name": "Anker B600 Video Bar",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fb53c5e92f522fcdaa6010f2c0574857.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "2k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 95
+  },
+  {
+    "name": "Adesso Cybertrack H5",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3905d8fd8428368c185dd6803ac03429.256p.jpg",
+    "price": 70.48,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 80
+  },
+  {
+    "name": "Logitech StreamCam Plus",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e35cd1f2bf8c802838304d97f03d2d51.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "NexiGo N660P",
+    "image": "https://m.media-amazon.com/images/I/414OTgioDAL.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Avermedia Live Streamer CAM 313",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/40c54a365eecec3c8a2ed3ed8f8bdba5.256p.jpg",
+    "price": 59.99,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Logitech C505",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/14bd98c81302eaea1d110f7ce601b2e7.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 60
+  },
+  {
+    "name": "Logitech C615 Portable",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/69265d5978d471b96008706a9a8ce830.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "AUKEY PC-LM1",
+    "image": "https://m.media-amazon.com/images/I/31P95eFrY6L.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Manual",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 55
+  },
+  {
+    "name": "Logitech C310",
+    "image": "https://m.media-amazon.com/images/I/31ve3mfHHZL.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 60
+  },
+  {
+    "name": "Logitech C505e",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1cc5a995953b6b6f672289a7a400586e.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 60
+  },
+  {
+    "name": "OBSBOT Tiny 4K",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b33ef459d60d84878397cfd778895141.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Microsoft LifeCam HD-3000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4c166ff82cbd102d2cdcb007f5e867e9.256p.jpg",
+    "price": 149.94,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Avermedia PW315",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/589062177bcb9c09411ed9add3fa4a70.256p.jpg",
+    "price": 84.99,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS"
+    ],
+    "fov": 95.8
+  },
+  {
+    "name": "Logitech C910",
+    "image": "https://m.media-amazon.com/images/I/417yhmFAWwL.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Logitech C525",
+    "image": "https://m.media-amazon.com/images/I/412mB0R+4RL.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "ChromeOS",
+      "Android"
+    ],
+    "fov": 69
+  },
+  {
+    "name": "Anker PowerConf C302",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/0c93df2016d73542bef2c237a8a1a1ee.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "2k",
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 115
+  },
+  {
+    "name": "Green Extreme T1000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e410ce7f3958ee615aafc65cbfaaaa92.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 120
+  },
+  {
+    "name": "VDO360 2SEE",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8ac7231db1827f258d7698eaa9ed3aaf.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": null,
+    "os": [
+      "Windows",
+      "OS X",
+      "Linux",
+      "Android"
+    ],
+    "fov": 75
+  },
+  {
+    "name": "Microsoft LifeCam Studio",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3c91dfebe3e19e8f34be04eceb27f37c.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 75
+  },
+  {
+    "name": "OBSBOT MEET 2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f402ac9ba4b6942eaba375bfcaf80609.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 79.4
+  },
+  {
+    "name": "Wansview 106JD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bff192640f123c0be0efd4c9ee997c95.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 60
+  },
+  {
+    "name": "Microsoft Lifecam Cinema",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cb6c32d086c6810b738a8b870a139fa0.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows"
+    ],
+    "fov": 73
+  },
+  {
+    "name": "Microsoft LifeCam CinemaaFor Business",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a50f76b93f27307e52589e86ca926451.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Microsoft LifeCam Studio for Business",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1a9648fa4c69787cf6f231687203d856.256p.jpg",
+    "price": 168.35,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 75
+  },
+  {
+    "name": "Green Extreme T200 + Live Streaming Bundle",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6742a2747e6eae9251b49c0b97d75cd7.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Avermedia HD Webcam 310",
+    "image": "https://m.media-amazon.com/images/I/41OEoZC1AsL.jpg",
+    "price": 29.99,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": null
+  },
+  {
+    "name": "OBSBOT Tiny",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/98fe8af9b7c8e972ce09b8aa5fe5932a.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 86
+  },
+  {
+    "name": "Microsoft LifeCam HD-3000 L2",
+    "image": "https://m.media-amazon.com/images/I/41dJL7O2tcL.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Creative Labs Live! Cam Sync HD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5b828c70f7e7f095f5cb344d85dd028e.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "720p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Fixed",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": null
+  },
+  {
+    "name": "Green Extreme T300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/09106d7c834ed70a77594bab094304f1.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 94
+  },
+  {
+    "name": "Avermedia 4K UHD Webcam 510",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2b6ff015cbe3af7f030c781aaf9b71d5.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "4k",
+      "1080p",
+      "720p",
+      "480p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": null,
+    "os": [
+      "Windows"
+    ],
+    "fov": 85
+  },
+  {
+    "name": "Wansview 102JD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6f682b778fe8b18a3dc633ad5e241a74.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": null,
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Adesso Cybertrack H4P",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/961ba7424f58a1eb64c6902f2ae4f27a.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Manual",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 78
+  },
+  {
+    "name": "Creative Labs BlasterX Senz3D",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4779680dd6345bf28871941d4cb9a8e4.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-A",
+    "focus_type": "Auto",
+    "os": [
+      "Windows"
+    ],
+    "fov": 77
+  },
+  {
+    "name": "Wansview 105JD",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bddb68bb7b9cda8859ed8ae5aa7c4a55.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p"
+    ],
+    "connection": "USB 2.0 Type-A",
+    "focus_type": "Manual",
+    "os": [
+      "Windows",
+      "OS X",
+      "Android"
+    ],
+    "fov": 90
+  },
+  {
+    "name": "Anker PowerConf C300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/891c66e519ea2dc961736d4ce527aac1.256p.jpg",
+    "price": null,
+    "resolutions": [
+      "1080p",
+      "720p"
+    ],
+    "connection": "USB 3.2 Gen 1 Type-C",
+    "focus_type": "Auto",
+    "os": [
+      "Windows",
+      "OS X"
+    ],
+    "fov": 115
+  }
+]

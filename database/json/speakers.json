@@ -1,0 +1,3548 @@
+[
+  {
+    "name": "Creative Labs Pebble 2.0",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31jmgojlr-L.jpg",
+    "price": 20.68,
+    "configuration": 2,
+    "wattage": 4.4,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto TUK",
+    "image": "https://m.media-amazon.com/images/I/31YHerBkZkL.jpg",
+    "price": 1298.43,
+    "configuration": 2,
+    "wattage": 260,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "Kanto TUK",
+    "image": "https://m.media-amazon.com/images/I/316eV2+AW3L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 260,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Pebble 2.0",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a02af64b3b2cf5af614179a132aa367c.256p.jpg",
+    "price": 20.69,
+    "configuration": 2,
+    "wattage": 4.4,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "White"
+  },
+  {
+    "name": "Logitech Z207 (Black)",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ec84c190e5f11ca8e9b78bd6dfb781fd.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 0.01,
+    "frequency_response": null,
+    "color": "Black"
+  },
+  {
+    "name": "Logitech Z906",
+    "image": "https://m.media-amazon.com/images/I/41tnErFDq3L.jpg",
+    "price": 330.89,
+    "configuration": 5.1,
+    "wattage": 500,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Razer Leviathan V2 X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/340d4285b47c9ae44dce4a90a9f079d7.256p.jpg",
+    "price": 94.97,
+    "configuration": 2,
+    "wattage": 65,
+    "frequency_response": [
+      85,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier MR4",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ea21a9b6cd58a889002797910fc2441e.256p.jpg",
+    "price": 99.99,
+    "configuration": 2,
+    "wattage": 42,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "White"
+  },
+  {
+    "name": "SteelSeries Arena 9 EU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cd9f29efeb8f9009391feee45e5bc9a2.256p.jpg",
+    "price": 557.99,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier MR4",
+    "image": "https://m.media-amazon.com/images/I/31kqFcLhJTL.jpg",
+    "price": 130.25,
+    "configuration": 2,
+    "wattage": 42,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech Z623",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1a81d1d8e7b218880798be08c84c5a3e.256p.jpg",
+    "price": 164.4,
+    "configuration": 2.1,
+    "wattage": 200,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Pebble Plus",
+    "image": "https://m.media-amazon.com/images/I/31Y+ekfVByL.jpg",
+    "price": 41.99,
+    "configuration": 2.1,
+    "wattage": 8,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Razer Leviathan V2 Pro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6262bc1dd543981e5cf9a470e374209b.256p.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech S150",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cc13de09d072bed3efcf450a1d98e046.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 2.4,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Cyber Acoustics CA-2016WB",
+    "image": "https://m.media-amazon.com/images/I/41f0OgirtqL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3,
+    "frequency_response": [
+      260,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech G560",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ad2ea31f9621f1aa5f4693fa012bc4de.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 120,
+    "frequency_response": [
+      40,
+      18
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Pebble V2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/35b161e009a58f1b9b4c4a50ab9dcda0.256p.jpg",
+    "price": 28.99,
+    "configuration": 2,
+    "wattage": 8,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "Black / Copper"
+  },
+  {
+    "name": "SteelSeries Arena 7 EU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/73c65a27411b4644b3476c5fd906f9bb.256p.jpg",
+    "price": 307.39,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech X-540",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41aB2hM0meL.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 70,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z313",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/17b4ef2d9b7828e91782fcf93bdc7cce.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 25,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Pebble Pro",
+    "image": "https://m.media-amazon.com/images/I/316mEuQR-IL.jpg",
+    "price": 59.99,
+    "configuration": 2,
+    "wattage": 30,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black / Copper"
+  },
+  {
+    "name": "SteelSeries Arena 9 US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f623ec1b82ade437b39d86ba82dd7e8d.256p.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Sony HT-S100F Soundbar",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5ef14aaf9a260dcbf607eb5e0fb5b9e2.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 44,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Audioengine A5+ Black",
+    "image": "https://m.media-amazon.com/images/I/41A5eHhcF9L.jpg",
+    "price": 507.04,
+    "configuration": 2,
+    "wattage": 150,
+    "frequency_response": [
+      50,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Klipsch ProMedia 2.1",
+    "image": "https://m.media-amazon.com/images/I/31Z6ZgChfGL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 120,
+    "frequency_response": [
+      31,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Stage Air V2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7501b0c11b3286207e79e6bbdd22cc56.256p.jpg",
+    "price": 49.99,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech Z150",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/df3930d28f5352d74bf85844dd6bcfe9.256p.jpg",
+    "price": 62.89,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "NZXT Relay",
+    "image": "https://m.media-amazon.com/images/I/31qOwQyE0-L.jpg",
+    "price": 149.9,
+    "configuration": 2,
+    "wattage": 80,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Pebble V3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2632f14a05f4fc771452849333b86af0.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 8,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "Black / Copper"
+  },
+  {
+    "name": "Razer Leviathan V2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a404c6eeceb711738df49595a0ac7d4c.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 65,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "NZXT Relay",
+    "image": "https://m.media-amazon.com/images/I/31J2f4EXfSL.jpg",
+    "price": 149.9,
+    "configuration": 2,
+    "wattage": 80,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "Logitech Z323",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9e63aa7d5a08f1144a161dbda92482dd.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 30,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Yamaha HS8",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9a6241e2a10a2ad5a02986cee6df17a7.256p.jpg",
+    "price": 289,
+    "configuration": 2,
+    "wattage": 120,
+    "frequency_response": [
+      38,
+      30
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs T60",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fd3fe44545a8001617dc0cc9d340a76b.256p.jpg",
+    "price": 75.98,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black / Gold"
+  },
+  {
+    "name": "Logitech Z625",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3d4cf341a5a85ea3c5f3367eb79f7d47.256p.jpg",
+    "price": 168.31,
+    "configuration": 2.1,
+    "wattage": 200,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Edifier S350DB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5983dc3f2e1386155ed839fffcb808a6.256p.jpg",
+    "price": 283.73,
+    "configuration": 2.1,
+    "wattage": 150,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black / Brown"
+  },
+  {
+    "name": "Logitech Z407",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bdcf15f115b1f3e12e896a3efcb143f3.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Pebble V3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/50f6663a86d1596137e70873b71c7896.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 16,
+    "frequency_response": [
+      100,
+      17
+    ],
+    "color": "White / Copper"
+  },
+  {
+    "name": "Edifier R1280DB-Brown",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/3ef66b395e4756a53b894bb0cf1c3842.256p.jpg",
+    "price": 109,
+    "configuration": 2,
+    "wattage": 42,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Edifier R1700BT",
+    "image": "https://m.media-amazon.com/images/I/41wpuNKbK9L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 66,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black / Brown"
+  },
+  {
+    "name": "Razer Nommo V2 Pro",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c0035e093e4e3c4bf3c41dc2c308ff1c.256p.jpg",
+    "price": 441.29,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier R980T",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e78aa7b2daf00a2257f164fcf916d598.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 24,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Trust GXT 606 JAVV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8dff6e7a89953fd9854d99ab273780a0.256p.jpg",
+    "price": 24.99,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": [
+      160,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Razer NOMMO CHROMA",
+    "image": "https://m.media-amazon.com/images/I/41B4OATKG+L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "AmazonBasics U213",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/41I1TETMiIL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 2.2,
+    "frequency_response": [
+      103,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Audioengine A5+ White",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cd6dffc1ab782add61c19545addfe06d.256p.jpg",
+    "price": 311,
+    "configuration": 2,
+    "wattage": 150,
+    "frequency_response": [
+      50,
+      22
+    ],
+    "color": "White"
+  },
+  {
+    "name": "Klipsch R-51PM",
+    "image": "https://m.media-amazon.com/images/I/41lJ6byTccL.jpg",
+    "price": 881.43,
+    "configuration": 2,
+    "wattage": 120,
+    "frequency_response": [
+      68,
+      21
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Bose Companion 2 Series III",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/70df7ebc95e71812189987cff42ab4e6.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Creative Labs Sound Blaster GS5 RGB Soundbar",
+    "image": "https://m.media-amazon.com/images/I/21n75KNBDHL.jpg",
+    "price": 69.98,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Cyber Acoustics CA-3090",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e2b77d5b4cfd102fa680830c3d32dd49.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 10,
+    "frequency_response": [
+      160,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z200",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/044e21f178b0ad10f69fbc76b6ac013e.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Yamaha NS-SP1800",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c49d3e4bdca7a4d9a04eebc7667cde89.256p.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 550,
+    "frequency_response": [
+      28,
+      50
+    ],
+    "color": null
+  },
+  {
+    "name": "ADAM Audio T8V",
+    "image": "https://m.media-amazon.com/images/I/31OZ4n9oOrL.jpg",
+    "price": 258,
+    "configuration": 1,
+    "wattage": 180,
+    "frequency_response": [
+      33,
+      25
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1665879407429d3123a06d8e586e7b96.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "Pink / Black"
+  },
+  {
+    "name": "Edifier R1280DB-Black",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a8078d4ee57562c7f1e36dcb133a3fc4.256p.jpg",
+    "price": 109,
+    "configuration": 2,
+    "wattage": 42,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech Z533",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/962564ca11472d2ab2eec6a59a1c3257.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 60,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "AmazonBasics V620",
+    "image": "https://m.media-amazon.com/images/I/410rFQDJ67L.jpg",
+    "price": 20.82,
+    "configuration": 2,
+    "wattage": 2.4,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "PreSonus Eris 3.5 2nd Gen",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/273aecd7d61bad6de352ddf132283e18.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black / Blue"
+  },
+  {
+    "name": "NZXT Relay",
+    "image": "https://m.media-amazon.com/images/I/31-lWcQixTL.jpg",
+    "price": 159.9,
+    "configuration": 1,
+    "wattage": 140,
+    "frequency_response": [
+      45,
+      150
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto ORA4",
+    "image": "https://m.media-amazon.com/images/I/31hKLJAKAOL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 140,
+    "frequency_response": [
+      60,
+      22
+    ],
+    "color": "White"
+  },
+  {
+    "name": "Logitech Z207 (White)",
+    "image": "https://m.media-amazon.com/images/I/419g1lo2tqL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 0.01,
+    "frequency_response": null,
+    "color": "White"
+  },
+  {
+    "name": "Trust Gemi",
+    "image": "https://m.media-amazon.com/images/I/617mlnhzMYL.jpg",
+    "price": 15.99,
+    "configuration": 2,
+    "wattage": 12,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Sound Blaster Katana V2",
+    "image": "https://m.media-amazon.com/images/I/21qVZ0j5ExL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 126,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Razer NOMMO PRO",
+    "image": "https://m.media-amazon.com/images/I/41LCGHTgBgL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "image": "https://m.media-amazon.com/images/I/31+9thKsnWL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "SteelSeries Arena 7 US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/64559af8a7e8f6b7860b2343adf45bcc.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs SXFI Carrier",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ba906c07749ff008118bc6e59ea71d8e.256p.jpg",
+    "price": 994.12,
+    "configuration": 2.1,
+    "wattage": 450,
+    "frequency_response": [
+      25,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Onkyo GX-30ARC",
+    "image": "https://m.media-amazon.com/images/I/31X1mtYzgHL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "White"
+  },
+  {
+    "name": "Creative Labs T100",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6f8072ee19bd66d257dae399b086e7c7.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 40,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Razer Nommo V2 X",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b8f35adc5a2ea8af454273be360d3471.256p.jpg",
+    "price": 166.8,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      75,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Yamaha HS5",
+    "image": "https://m.media-amazon.com/images/I/41VRupN2XLL.jpg",
+    "price": 154.9,
+    "configuration": 1,
+    "wattage": 70,
+    "frequency_response": [
+      54,
+      30
+    ],
+    "color": null
+  },
+  {
+    "name": "Yamaha HS8 W",
+    "image": "https://m.media-amazon.com/images/I/41JMChrUZPL.jpg",
+    "price": 318.73,
+    "configuration": 1,
+    "wattage": 120,
+    "frequency_response": [
+      38,
+      30
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine A5+ Bamboo",
+    "image": "https://m.media-amazon.com/images/I/41HY8aURKnS.jpg",
+    "price": 366,
+    "configuration": 2,
+    "wattage": 150,
+    "frequency_response": [
+      50,
+      22
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Yamaha HS5 W",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bb30b09a829490cc46ee55a5df662c45.256p.jpg",
+    "price": 194.75,
+    "configuration": 1,
+    "wattage": 70,
+    "frequency_response": [
+      54,
+      30
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Creative Stage V2",
+    "image": "https://m.media-amazon.com/images/I/21yyXF0cW4L.jpg",
+    "price": 94.99,
+    "configuration": 2.1,
+    "wattage": 80,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto YU2MB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/dd046a1003ee58c8550c367e2242e035.256p.jpg",
+    "price": 269.89,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech Z333",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6373496d8f1c9b35ad91666c061f7ecc.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine A2+B",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/be35b220c294bdb21808f30bd6cdd55a.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z213",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b927d1d23c185d9064071f909452a075.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 7,
+    "frequency_response": [
+      65,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "JBL C2PS",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/21532f3ca1370178395adec58bc62907.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 70,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Mackie CR5-XBT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/83d8576404507c89c35e23f7b26c681e.256p.jpg",
+    "price": 242.41,
+    "configuration": 2,
+    "wattage": 80,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Green / Black"
+  },
+  {
+    "name": "Creative Labs Creative Stage",
+    "image": "https://m.media-amazon.com/images/I/31PSdlWfkUL.jpg",
+    "price": 275.92,
+    "configuration": 2.1,
+    "wattage": 80,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs GigaWorks T40 Series II",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a6536f7d524e9bdffdc31fe6226d7f6e.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 32,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech S120",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/fdb008aa69b39e302bb88cdf319bdf42.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 2.3,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z506",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ab83440cd62546724e32334252eb263c.256p.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 155,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "PreSonus Eris E3.5 BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/a9b5bc7e59f26bd33a4bd46c6653a48f.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "SteelSeries Arena 3 US",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7d272bd9d622c43c6b8f886e4597d373.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto ORA4",
+    "image": "https://m.media-amazon.com/images/I/31sUqdWafoL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 140,
+    "frequency_response": [
+      60,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier R33BT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d84c58d929b1de81b7f02b57b7291a9b.256p.jpg",
+    "price": 59.99,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Razer Nommo V2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/259c5871258d66f076590529c4e9f5c7.256p.jpg",
+    "price": 289.99,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "AmazonBasics V216US",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51RQDUKIinL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4.6,
+    "frequency_response": [
+      68,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Razer Leviathan",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1d97e880ddb8ce5e99226c9be6905c80.256p.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 60,
+    "frequency_response": [
+      180,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Onkyo GX-10DB",
+    "image": "https://m.media-amazon.com/images/I/31goN4maYmL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 34,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "White"
+  },
+  {
+    "name": "Creative Labs GigaWorks T20 Series II",
+    "image": "https://m.media-amazon.com/images/I/41LQonkuQyL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 28,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Kanto YU2MW",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b58ebd8158546f70ee1ac2076088c44a.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "Creative Labs SBS E2900",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/617dc7753266327088fc3d95962a19aa.256p.jpg",
+    "price": 198.79,
+    "configuration": 2.1,
+    "wattage": 60,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Audioengine HD3-CHR",
+    "image": "https://m.media-amazon.com/images/I/41uXBuqEjkL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": "Red / Black"
+  },
+  {
+    "name": "Corsair Gaming Audio Series SP2500",
+    "image": "https://m.media-amazon.com/images/I/31QXpGH0PtL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 232,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z130",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41kg7nDZhgL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 5,
+    "frequency_response": [
+      140,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Trust GXT 612 CETIC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bba2fd3f3caa8c61e8df81a94689e1e2.256p.jpg",
+    "price": 47,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Audioengine A2+W",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2a220f3b1c35601516f17edfe4e8c130.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Sound Blaster Katana V2X",
+    "image": "https://m.media-amazon.com/images/I/21PlZaOsOeL.jpg",
+    "price": 294.52,
+    "configuration": 2.1,
+    "wattage": 90,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Cyber Acoustics CA-2014rb",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7419f0c9e66eeb4a00d915f52f65663f.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": [
+      85,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Pioneer DM-50D-BT",
+    "image": "https://m.media-amazon.com/images/I/41-27w4aI3L.jpg",
+    "price": 283.5,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "White"
+  },
+  {
+    "name": "SteelSeries Arena 7 AU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4839a54d8db920552b186924b8b464c7.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Trust Asto Soundbar",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/090d56989353d5e28be62b587b98c8cc.256p.jpg",
+    "price": 29.9,
+    "configuration": 2,
+    "wattage": 24,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-3810",
+    "image": "https://m.media-amazon.com/images/I/41QWuz5v3xL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "image": "https://m.media-amazon.com/images/I/210WEanwnrL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Lenovo M0520",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41FVIexjbbL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 2,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine HD3-BLK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/432a21cba7d6857a369cbf6384019784.256p.jpg",
+    "price": 389,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "IK Multimedia IP-ILOUD-MM-IN",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/94765d82545142f55b26557fd1aba759.256p.jpg",
+    "price": 295,
+    "configuration": 2,
+    "wattage": 70,
+    "frequency_response": [
+      45,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Stage 360",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/40f9da4494b0e9d46dc8f1bf302599cb.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 180,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Logitech S-150",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41j4R%2BrentL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 1.2,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Harman Kardon SoundSticks Wireless",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/074d3708e3fcb68714d98e306e6eedb9.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      44,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Sound BlasterX Katana",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/df873d7044f4807a1eaa411b1111c02d.256p.jpg",
+    "price": 242.29,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Edifier S550",
+    "image": "https://m.media-amazon.com/images/I/41DkiSqXZOL.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 280,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Bose Companion 5",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/59f52b5521668648128bc0b85848e671.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": "Black / Gray"
+  },
+  {
+    "name": "ADAM Audio A7X",
+    "image": "https://m.media-amazon.com/images/I/41eaWlNiFeL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 300,
+    "frequency_response": [
+      42,
+      50
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "M-Audio BX5 D2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5e7e1954d579e874528e197dfaf06202.med.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 140,
+    "frequency_response": [
+      56,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "KRK RP5 G2",
+    "image": "https://m.media-amazon.com/images/I/31A9Pa+YpDL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 90,
+    "frequency_response": [
+      52,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine A2+R",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4857bdf3964ba44eacab9897717bd5ed.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie CR4-XBT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/85d7cf6ca79c5b9785924b20ed661068.256p.jpg",
+    "price": 232.84,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black / Green"
+  },
+  {
+    "name": "Vanatoo Transparent Zero Plus",
+    "image": "https://m.media-amazon.com/images/I/419xynq7iNL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 96,
+    "frequency_response": [
+      52,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Bose Companion 20",
+    "image": "https://m.media-amazon.com/images/I/41dax22MQBL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "KEF LSXBL",
+    "image": "https://m.media-amazon.com/images/I/41eXJl8ixdL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 200,
+    "frequency_response": [
+      49,
+      47
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier S760D",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8296b76d92c1460988273320d9e492bd.256p.jpg",
+    "price": 403,
+    "configuration": 5.1,
+    "wattage": 540,
+    "frequency_response": [
+      42,
+      20
+    ],
+    "color": "Black / Silver"
+  },
+  {
+    "name": "SteelSeries Arena 3 EU",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ab2228c407e470f526c46c5710931f53.256p.jpg",
+    "price": 149.99,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Micca COVO-S",
+    "image": "https://m.media-amazon.com/images/I/417TKBQqkDL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "PreSonus 3.5BT 2nd Gen",
+    "image": "https://m.media-amazon.com/images/I/415FhGd+bWL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "SteelSeries Arena 7 UK",
+    "image": "https://m.media-amazon.com/images/I/31ADltRUUUL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "AmazonBasics V620",
+    "image": "https://m.media-amazon.com/images/I/51tLmItyi2S.jpg",
+    "price": 13.07,
+    "configuration": 2,
+    "wattage": 2.4,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Silver"
+  },
+  {
+    "name": "Creative Labs Inspire T6160",
+    "image": "https://m.media-amazon.com/images/I/41NIDwVEK1L.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 50,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie CR3",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41lIje7ibdL.jpg",
+    "price": 207.43,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech THX Z-5300e",
+    "image": "https://m.media-amazon.com/images/I/41-x0K55ZTL.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 280,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech X-530",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 70.1,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z120",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/cb880412d1ebd54793d416e81dfc3c74.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Audioengine HD3-WHT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4026abe24aa94627d447c16a1ca37952.256p.jpg",
+    "price": 272,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "Edifier R2750DB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4e365ddaf3d71161272021ae1e55ceda.256p.jpg",
+    "price": 219,
+    "configuration": 2,
+    "wattage": 136,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Onkyo GX-30ARC",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/030d679d7f33a8def6b967be08130f40.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Micca MB42X",
+    "image": "https://m.media-amazon.com/images/I/416WIu1IJ5L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 150,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Kanto YU2GW",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/b58ebd8158546f70ee1ac2076088c44a.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "Yamaha HS7",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41SYVxVgHcL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 95,
+    "frequency_response": [
+      43,
+      30
+    ],
+    "color": null
+  },
+  {
+    "name": "Kanto YU2GB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f9c258687ee713bb14a3bb7b1bd9c50a.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier S880DB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/39b25ba68fd9d38893b64682c3aef5ea.256p.jpg",
+    "price": 303.27,
+    "configuration": 2,
+    "wattage": 20,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "White / Brown"
+  },
+  {
+    "name": "Harman Kardon SoundSticks III",
+    "image": "https://m.media-amazon.com/images/I/413MyPnCvgL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      44,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z-5500",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 505,
+    "frequency_response": [
+      33,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "JBL LSR305",
+    "image": "https://m.media-amazon.com/images/I/41yCtxPwE7L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 82,
+    "frequency_response": [
+      43,
+      24
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech LS11",
+    "image": "https://m.media-amazon.com/images/I/41vc7qHPDIL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Yamaha HS7 W",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7074ae83850ec5f5d5d268665c5f7def.256p.jpg",
+    "price": 228,
+    "configuration": 1,
+    "wattage": 95,
+    "frequency_response": [
+      43,
+      30
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech LS21",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41AgUUBmCVL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 7,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z523",
+    "image": "https://m.media-amazon.com/images/I/41xaE1iJ7tL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie CR4",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4ed2562520044d0753e293fc88fb8da0.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 28,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech X-230",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 32,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Kanto YU2MG",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/6eaf31beaa7841cd6a68c6211f6e01c1.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Silver / Black"
+  },
+  {
+    "name": "Razer Nommo",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/29a65cf9128af9606596ecd9e6177deb.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Audioengine HD3-WAL",
+    "image": "https://m.media-amazon.com/images/I/41TQRUQZYuS.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Mackie CR3-X",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "White"
+  },
+  {
+    "name": "Pioneer DM-50D-BT",
+    "image": "https://m.media-amazon.com/images/I/31IaQSdIsPL.jpg",
+    "price": 216.29,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Micca MB42",
+    "image": "https://m.media-amazon.com/images/I/41VzGIA31cL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 150,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "PreSonus Eris E4.5",
+    "image": "https://m.media-amazon.com/images/I/31Nkou7TQ1L.jpg",
+    "price": 239.95,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie MR624",
+    "image": "https://m.media-amazon.com/images/I/415WIz3OrBL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 65,
+    "frequency_response": [
+      38,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Syba CL-SPK20069",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41vyTcjF--L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3.4,
+    "frequency_response": [
+      280,
+      16
+    ],
+    "color": null
+  },
+  {
+    "name": "Gigabyte GP-S4600",
+    "image": "https://m.media-amazon.com/images/I/11rsjbNop-L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 1,
+    "frequency_response": [
+      230,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Edifier R19U",
+    "image": "https://m.media-amazon.com/images/I/41zxjll8cCL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": [
+      150,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z337 w/BlueTooth",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ebf818e8ce22011d6299172337454c28.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Edifier S2000 PRO",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/1f1b142faf98d27155df047441351b38.256p.jpg",
+    "price": 357.77,
+    "configuration": 2,
+    "wattage": 124,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "KEF LSXRED",
+    "image": "https://m.media-amazon.com/images/I/41vbLPaJKlS.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 200,
+    "frequency_response": [
+      49,
+      47
+    ],
+    "color": "Red / Black"
+  },
+  {
+    "name": "Creative Labs Sound Blaster GS3 Rev C",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 12,
+    "frequency_response": [
+      65,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Onkyo GX-10DB",
+    "image": "https://m.media-amazon.com/images/I/31hxL5WKg0L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 34,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "M-Audio BX5 D3",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7386c02d6787145f55aa020bf43d7d18.256p.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 100,
+    "frequency_response": [
+      52,
+      35
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Micca PB42X",
+    "image": "https://m.media-amazon.com/images/I/419KoeFI-qL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 30,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Insignia NS-PCS21",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 8,
+    "frequency_response": [
+      90,
+      18
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "M-Audio BX8 D3",
+    "image": "https://m.media-amazon.com/images/I/41YJOkjs8UL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 150,
+    "frequency_response": [
+      37,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Edifier S1000DB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/54a89d0242d525e16e1b0e10d6119dee.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 120,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "image": "https://m.media-amazon.com/images/I/31hUiVLkK1L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "Red / Black"
+  },
+  {
+    "name": "Audioengine A2 (White)",
+    "image": "https://m.media-amazon.com/images/I/41CJ4mljPaL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 30,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine A2 (Black)",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/86764ffc1fac88a562744da98d5a22f0.med.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 60,
+    "frequency_response": [
+      65,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Microlab FC 330",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2bb56a6c883064070c861f671c7006a2.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 64,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "V7 SP2000-USB-1NC",
+    "image": "https://m.media-amazon.com/images/I/41aGiA2fy2L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 1,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Logitech S-220",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 17,
+    "frequency_response": [
+      85,
+      15
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Creative Labs Inspire T6300",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/aab75ed8472f1789c810a92a558f7a25.256p.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 57,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "KEF LSXBLUE",
+    "image": "https://m.media-amazon.com/images/I/41QOQc-Fi-L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 200,
+    "frequency_response": [
+      49,
+      47
+    ],
+    "color": "Blue / Black"
+  },
+  {
+    "name": "Yamaha Yamaha NX-50 2.0 Speaker System - 14 W RMS - Black",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d4599a543058bf7ca2049ec18293c78b.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 14,
+    "frequency_response": [
+      55,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Trust GXT 606 JAVV",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/292e198de1e2aa91de4ba7c4edd017af.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": [
+      160,
+      20
+    ],
+    "color": "Gray / Black"
+  },
+  {
+    "name": "Creative Labs A60",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/47ca99cc13531a29704454b6dce3dea3.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech X-140",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/51C%2B4qbLSFL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": [
+      80,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs A220",
+    "image": "https://m.media-amazon.com/images/I/417BjSVOK4L.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 9,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Inspire T10",
+    "image": "https://m.media-amazon.com/images/I/51Quvj0qh6L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2002",
+    "image": "https://m.media-amazon.com/images/I/41Hq4pRdr4L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": [
+      270,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-3602",
+    "image": "https://m.media-amazon.com/images/I/31NjHKMnsVL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 30,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z320",
+    "image": "https://m.media-amazon.com/images/I/41-OSU0yFDL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "M-Audio BX8 D2",
+    "image": "https://m.media-amazon.com/images/I/41j1LaHKeZL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 260,
+    "frequency_response": [
+      30,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "KRK RP8 G2",
+    "image": "https://m.media-amazon.com/images/I/31fECzW7YvL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 140,
+    "frequency_response": [
+      44,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Inspire T3300",
+    "image": "https://m.media-amazon.com/images/I/41fpv9r02+L.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 27,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie MR8mk3",
+    "image": "https://m.media-amazon.com/images/I/41uVt+BUeoL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 170,
+    "frequency_response": [
+      38,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z-2300",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 200,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Logitech Z150",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31dlUubJS9L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Creative Labs A250",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e4ebd63f487e04a861564f6649b93a92.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 9,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Altec Lansing BX1520",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41Qg7iVGaPL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Klipsch Reference R-14PM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/50b0dffcb3f79b78ecf4c919dc06182c.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 70,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Black / Brown"
+  },
+  {
+    "name": "Kanto YU2GT",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/f810262e25e3f95ba11df15c89a81845.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Blue / Black"
+  },
+  {
+    "name": "Fluance Ai60 Black Ash",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2c19933790ef3cbf8e86aa99c85b32c9.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      35,
+      30
+    ],
+    "color": "Black / Beige"
+  },
+  {
+    "name": "Fluance Ai60 Lucky Bamboo",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bd9de07201f5f15eba9a34f37e8b99ff.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      35,
+      30
+    ],
+    "color": "White / White"
+  },
+  {
+    "name": "KEF LSXGRN",
+    "image": "https://m.media-amazon.com/images/I/41M0p9jv3dS.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 200,
+    "frequency_response": [
+      49,
+      47
+    ],
+    "color": "Green / Black"
+  },
+  {
+    "name": "KEF LSXWH",
+    "image": "https://m.media-amazon.com/images/I/31IrE79zKbS.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 200,
+    "frequency_response": [
+      49,
+      47
+    ],
+    "color": "White / Black"
+  },
+  {
+    "name": "Vanatoo Transparent One Encore",
+    "image": "https://m.media-amazon.com/images/I/31zRdxuyysL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 240,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "SteelSeries Arena 3 UK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/acce4e016ebf8c15bcdb71fa3f411951.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Fluance SX6-BK",
+    "image": "https://m.media-amazon.com/images/I/31+ugHaB6NL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Lenovo M1730",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/11F2gTBrx4L.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 12,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "M-Audio AV42",
+    "image": "https://m.media-amazon.com/images/I/41zMAOwuGqL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 40,
+    "frequency_response": [
+      75,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs T12",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/55533f0d0fbe903520f4789cd7cf4767.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 18,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius SP-HF800A",
+    "image": "https://m.media-amazon.com/images/I/51ynanzcRUL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 20,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Logitech Z553",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/316lNwmPM4L.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      55,
+      17
+    ],
+    "color": null
+  },
+  {
+    "name": "Gigabyte GP-S2000",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/af2d9f34c6b7c787a7b7da3c0c3a630a.med.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": [
+      100,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Microlab SP-FC20BK",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/16f64ac8c709893b213dc4bb6890f3f2.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      50,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius SP-S110",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51%2B5wtlQELL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 1,
+    "frequency_response": [
+      200,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs GigaWorks T3",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/415Y-u9RGbL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 80,
+    "frequency_response": [
+      30,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Gear Head SP2000USLV",
+    "image": "https://m.media-amazon.com/images/I/31zOncsHXIL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3,
+    "frequency_response": [
+      200,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2011WB",
+    "image": "https://images-fe.ssl-images-amazon.com/images/I/51rq%2B0NP5GL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": [
+      220,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "M-Audio Studiophile AV30",
+    "image": "https://m.media-amazon.com/images/I/41C4xYIzq3L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 20,
+    "frequency_response": [
+      90,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius SW-G2.1",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41rAA6PPRZL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 70,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "KRK RP6 G2",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/4e5831f9ee63b2fc3c2490ebbe272ed3.med.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs T30",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/d448b52fe54e5da91c0bf8d3144007a3.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 14,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine A5+N",
+    "image": "https://m.media-amazon.com/images/I/41ebMWlkS3L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 150,
+    "frequency_response": [
+      50,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Sound BlasterX Kratos S5",
+    "image": "https://m.media-amazon.com/images/I/41jv6guOnZL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Creative Labs Sound BlasterX Kratos S3",
+    "image": "https://m.media-amazon.com/images/I/41cpINA+mzL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics Curve Sonic",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/20bc3df4dd0201d4abf4cb20a99d2411.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics Curve Storm",
+    "image": "https://m.media-amazon.com/images/I/41B+oKc-3cL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 22,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Altec Lansing VS3030",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/419MsVAJa9L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Pioneer SP-BS21-LR",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/79876491f154e93c4843e877b83eff60.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 80,
+    "frequency_response": [
+      65,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie MR524",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/e083e5345819255edf3c9dd5d8ac643b.256p.jpg",
+    "price": 157.68,
+    "configuration": 1,
+    "wattage": 50,
+    "frequency_response": [
+      45,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Kanto YU2Bamboo",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/bcbd1c56332509b785b1a1fe9345bd92.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Kanto YU2GR",
+    "image": "https://m.media-amazon.com/images/I/31y6lWfUZ4L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": "Red / Black"
+  },
+  {
+    "name": "Edifier Luna Eclipse E25",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/485f0c5f67a92a83b0addcabe93b79a1.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 74,
+    "frequency_response": [
+      30,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Altec Lansing VS4621",
+    "image": "https://m.media-amazon.com/images/I/31SLRGQSc8L.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 28,
+    "frequency_response": [
+      45,
+      18
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Fluance Ai60 White Walnut",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c4d0467d31e848a40a193454fcab65c0.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      35,
+      30
+    ],
+    "color": "White / Brown"
+  },
+  {
+    "name": "HiFiMAN X100",
+    "image": "https://m.media-amazon.com/images/I/31pjIF9+jEL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 11,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Vanatoo Transparent Zero",
+    "image": "https://m.media-amazon.com/images/I/315KmHrYcRL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 96,
+    "frequency_response": [
+      52,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "SteelSeries Arena 3 AU",
+    "image": "https://m.media-amazon.com/images/I/31lY65BhdRL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Trust Gemi",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 12,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Blue / Black"
+  },
+  {
+    "name": "Trust Gemi",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 12,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": "Red / Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "image": "https://m.media-amazon.com/images/I/31UOfaVBh4L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "Purple / Black"
+  },
+  {
+    "name": "Kanto ORA",
+    "image": "https://m.media-amazon.com/images/I/31yB2yAunFL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      70,
+      22
+    ],
+    "color": "Gray / Black"
+  },
+  {
+    "name": "Behringer MS16",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/85f397e8ad8dda90f50752016f992f90.256p.jpg",
+    "price": 90,
+    "configuration": 2,
+    "wattage": 16,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Inspire T3130",
+    "image": "https://m.media-amazon.com/images/I/41FkpY7nPQL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 25,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA3550RB",
+    "image": "https://m.media-amazon.com/images/I/31K8P6OA5aL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 68,
+    "frequency_response": [
+      22,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA3001WB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/c0923c07b7645505bd4d34afeed97f9e.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 14,
+    "frequency_response": [
+      38,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius 31730027102",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41IrmVLZ2yL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 30,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Microlab SP-FC20WH",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ebd13010a0cb63e9922d1d755fb80bac.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 40,
+    "frequency_response": [
+      50,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Syba CL-SPK20097",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41WkP1RJYzL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": [
+      150,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius SW-G2.1 1250",
+    "image": "https://m.media-amazon.com/images/I/41caxIu32zL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 38,
+    "frequency_response": [
+      58,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA3001RB",
+    "image": "https://m.media-amazon.com/images/I/31cvNFInTlL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 14,
+    "frequency_response": [
+      38,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Gear Head SP2000URED",
+    "image": "https://m.media-amazon.com/images/I/31IlUGxmrUL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3,
+    "frequency_response": [
+      200,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Gear Head SP2000UBLU",
+    "image": "https://m.media-amazon.com/images/I/41l1F1fPkQL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 3,
+    "frequency_response": [
+      200,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Syba CL-SPK20115",
+    "image": "https://m.media-amazon.com/images/I/41Lyjrmt5tL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": [
+      150,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Inspire S2",
+    "image": "https://m.media-amazon.com/images/I/41Go3AJ57VL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 33,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2012RB",
+    "image": "https://m.media-amazon.com/images/I/517hdRksBAL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 1.5,
+    "frequency_response": [
+      85,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2014WB",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/5492a84835d24bd74d6c76d9b08628fa.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 1.5,
+    "frequency_response": [
+      85,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2100WB",
+    "image": "https://m.media-amazon.com/images/I/41onCeHv3gL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 5.8,
+    "frequency_response": [
+      35,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-5402",
+    "image": "https://m.media-amazon.com/images/I/31v5Y0+qHXL.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": 40,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "M-Audio Studiophile AV20",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51s0-SDnxcL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 10,
+    "frequency_response": [
+      120,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "M-Audio Studiophile AV40",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 40,
+    "frequency_response": [
+      85,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius SP-HF1800A",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/7b2e33886c935cbfb5b906143e7b0b78.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 50,
+    "frequency_response": [
+      20,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Harman Kardon GLA-55",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/417tvB9lk8L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 112,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Audioengine A5",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      50,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "KRK VXT 8",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/8d95af617ccd332bb8584c8cd90c24fc.med.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 360,
+    "frequency_response": [
+      37,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "KRK VXT 6",
+    "image": "https://m.media-amazon.com/images/I/41BLyn-5acL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 180,
+    "frequency_response": [
+      49,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "KRK VXT4",
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/41Y8b86%2BjzL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 90,
+    "frequency_response": [
+      66,
+      22
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs T50",
+    "image": "https://m.media-amazon.com/images/I/41EvdfZgJdL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 40,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie MR5mk3",
+    "image": "https://m.media-amazon.com/images/I/41Eqa3UeFdL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      57,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Mackie MR6mk3",
+    "image": "https://m.media-amazon.com/images/I/41v2NoB9xxL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 130,
+    "frequency_response": [
+      46,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "M-Audio AV32",
+    "image": "https://m.media-amazon.com/images/I/31SD--s+8LL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 20,
+    "frequency_response": [
+      80,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Insignia NS-PCS20",
+    "image": "https://m.media-amazon.com/images/I/317B8V5l8CL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "JBL LSR4328P/PAK",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 140,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs Inspire T3100",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 29,
+    "frequency_response": [
+      40,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Avermedia GS315",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/303284a20551f1442fda0785bfd90ccb.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 77,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs A550",
+    "image": "https://m.media-amazon.com/images/I/41kdQ7k+juL.jpg",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "HiVi M10",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      100,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Rosewill SP-7260",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51rFuQTD2BL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      60,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Razer Ferox",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41OXW7fPzdL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 6,
+    "frequency_response": [
+      150,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Genius SP-U115",
+    "image": "https://m.media-amazon.com/images/I/41QJJrPb58L.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      200,
+      18
+    ],
+    "color": null
+  },
+  {
+    "name": "Sony BSP10",
+    "image": "https://m.media-amazon.com/images/I/51BoSZMIiZL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 20,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Avermedia GS315-DM",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/ab77d350fc3ac8dc6e50cecf43d151b5.256p.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 77,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": null
+  },
+  {
+    "name": "Creative Labs T3250",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41tdKoyQfPL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2014RB-ML",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/2eed7d6c25e67cfa73fc58fad75de391.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 4,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Cyber Acoustics CA-2027",
+    "image": "https://m.media-amazon.com/images/I/41osuRTuflL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 5,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Altec Lansing BX1521",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/318Ah-PcATL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": null,
+    "color": null
+  },
+  {
+    "name": "Swan Speakers M200MkIII",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": 120,
+    "frequency_response": [
+      53,
+      20
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Swan Speakers M50W",
+    "image": "https://m.media-amazon.com/images/I/513neiOw5ML.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 114,
+    "frequency_response": [
+      38,
+      20
+    ],
+    "color": "Brown / Black"
+  },
+  {
+    "name": "Mackie MR824",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/9969034735e952a5a8e0fcb1617f12de.256p.jpg",
+    "price": 309,
+    "configuration": 1,
+    "wattage": 85,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "Mackie MRS10",
+    "image": "https://m.media-amazon.com/images/I/41o-RwGc8UL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 120,
+    "frequency_response": [
+      40,
+      180
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "M-Audio BX8 CARBON",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 1,
+    "wattage": 130,
+    "frequency_response": [
+      38,
+      22
+    ],
+    "color": "Black / Silver"
+  },
+  {
+    "name": "M-Audio BX6 CARBON",
+    "image": "https://m.media-amazon.com/images/I/418Jt53oiTL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 100,
+    "frequency_response": [
+      45,
+      22
+    ],
+    "color": "Black / Silver"
+  },
+  {
+    "name": "M-Audio M3-8 (black)",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 1,
+    "wattage": 220,
+    "frequency_response": [
+      38,
+      22
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "M-Audio BX5 D3 Crimson",
+    "image": "https://m.media-amazon.com/images/I/511HjZwnFLL.jpg",
+    "price": null,
+    "configuration": 1,
+    "wattage": 100,
+    "frequency_response": [
+      52,
+      35
+    ],
+    "color": "Black / Red"
+  },
+  {
+    "name": "Genius G2.1 2000",
+    "image": "https://m.media-amazon.com/images/I/41hiVWpSvuL.jpg",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": 45,
+    "frequency_response": [
+      25,
+      20
+    ],
+    "color": "Black / Blue"
+  },
+  {
+    "name": "JBL Pebbles",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      70,
+      20
+    ],
+    "color": "Black / Red"
+  },
+  {
+    "name": "Fluance Ai60 Natural Walnut",
+    "image": "https://cdna.pcpartpicker.com/static/forever/images/product/646de91007a754acff362d17a4e9011e.256p.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 100,
+    "frequency_response": [
+      35,
+      30
+    ],
+    "color": "Black / Brown"
+  },
+  {
+    "name": "Vanatoo Transparent One Encore",
+    "image": "https://m.media-amazon.com/images/I/31Gy301k2lL.jpg",
+    "price": null,
+    "configuration": 2,
+    "wattage": 240,
+    "frequency_response": [
+      48,
+      20
+    ],
+    "color": "Black / Brown"
+  },
+  {
+    "name": "SteelSeries Arena 3 SK",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2,
+    "wattage": null,
+    "frequency_response": [
+      50,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "SteelSeries Arena 7 JP",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 2.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  },
+  {
+    "name": "SteelSeries Arena 9 JP",
+    "image": "https://it.pcpartpicker.com/static/forever/img/no-image.png",
+    "price": null,
+    "configuration": 5.1,
+    "wattage": null,
+    "frequency_response": [
+      35,
+      20
+    ],
+    "color": "Black"
+  }
+]
